@@ -171,48 +171,6 @@ work/atmosphere/INPUT/rmp_jrar_to_cict_CONSERV.nc:
   hashes:
     binhash: 6d3491be2d90054f9b7285fa0934de6d
     md5: 2e8cf1844fe7a1156ef47170a6eb5ef1
-work/ice/RESTART/grid.nc:
-  copy: true
-  fullpath: /g/data/ik11/inputs/access-om2/input_236a3011/cice_025deg/grid.nc
-  hashes:
-    binhash: 47c51f678e00170c22b4fee4aecdfdbd
-    md5: 24920ffb6c0fea5f6ec1e590a5f46280
-work/ice/RESTART/i2o.nc:
-  copy: true
-  fullpath: /g/data/ik11/inputs/access-om2/input_236a3011/cice_025deg/i2o.nc
-  hashes:
-    binhash: 646d3ed187995bfdfca60ea9eed9c3fe
-    md5: 2102112bdc5b20e8cb5c42c91bee4b12
-work/ice/RESTART/kmt.nc:
-  copy: true
-  fullpath: /g/data/ik11/inputs/access-om2/input_236a3011/cice_025deg/kmt.nc
-  hashes:
-    binhash: 521a25b41fc86a0b87400bc7dc7f223b
-    md5: 73d65aaee8da5caa8786963866ddc375
-work/ice/RESTART/mice.nc:
-  copy: true
-  fullpath: /g/data/ik11/inputs/access-om2/input_236a3011/cice_025deg/mice.nc
-  hashes:
-    binhash: bf2991045502105ce4d12affcfa3088e
-    md5: 81bb9d4ce5524952e10a4233ad1ce912
-work/ice/RESTART/monthly_sstsss.nc:
-  copy: true
-  fullpath: /g/data/ik11/inputs/access-om2/input_236a3011/cice_025deg/monthly_sstsss.nc
-  hashes:
-    binhash: 00bfa6cd8d5102a84f835b14edb50157
-    md5: 598c7aa8a08fe3f48a621f781dd26331
-work/ice/RESTART/o2i.nc:
-  copy: true
-  fullpath: /g/data/ik11/inputs/access-om2/input_236a3011/cice_025deg/o2i.nc
-  hashes:
-    binhash: 01f1d9ac629eb811b1b846c86050619d
-    md5: 85c05d4bb45805be6346f2051f682028
-work/ice/RESTART/u_star.nc:
-  copy: true
-  fullpath: /g/data/ik11/inputs/access-om2/input_236a3011/cice_025deg/u_star.nc
-  hashes:
-    binhash: 591bc105f907d882ec2d51e22107d23f
-    md5: 4be7800aa8e310a6c7a9c3af1d50c7f0
 work/ocean/INPUT/calving.nc:
   fullpath: /g/data/ik11/inputs/access-om2/input_236a3011/mom_025deg/calving.nc
   hashes:
@@ -273,11 +231,6 @@ work/ocean/INPUT/ocean_mosaic.nc:
   hashes:
     binhash: c01ddf41c267546edbe42e515251d276
     md5: 36e956159508785d9201cc13aec0cf02
-work/ocean/INPUT/ocean_temp_salt.res.nc:
-  fullpath: /g/data/ik11/inputs/access-om2/input_236a3011/mom_025deg/ocean_temp_salt.res.nc
-  hashes:
-    binhash: 9d75ec72ed7fc6347d7347ef5847319d
-    md5: 65c1c060388046d1f725d86374002bfd
 work/ocean/INPUT/ocean_vgrid.nc:
   fullpath: /g/data/ik11/inputs/access-om2/input_236a3011/mom_025deg/ocean_vgrid.nc
   hashes:
