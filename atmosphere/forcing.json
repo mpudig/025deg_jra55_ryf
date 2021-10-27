@@ -50,7 +50,7 @@
         {
           "type": "separable",
           "dimension": ["temporal", "spatial"],
-          "value": ["INPUT/regression_time_series/RYF.uas.1990_1991_time_series.nc", "INPUT/regression_patterns/RYF.uas.1990_1991_pattern_N34.nc"],
+          "value": ["INPUT/regression_time_series/RYF.uas_10m.1990_1991_time_series.nc", "INPUT/regression_patterns/RYF.uas_10m.1990_1991_pattern_N34.nc"],
           "calendar": "forcing",
           "comment": "N34(t) x EOF1(x,y)"
         },
@@ -64,7 +64,7 @@
         {
           "type": "separable",
           "dimension": ["temporal", "spatial"],
-          "value": ["INPUT/regression_time_series/RYF.vas.1990_1991_time_series.nc", "INPUT/regression_patterns/RYF.vas.1990_1991_pattern_N34.nc"],
+          "value": ["INPUT/regression_time_series/RYF.vas_10m.1990_1991_time_series.nc", "INPUT/regression_patterns/RYF.vas_10m.1990_1991_pattern_N34.nc"],
           "calendar": "forcing",
           "comment": "N34(t) x EOF1(x,y)"
         },
