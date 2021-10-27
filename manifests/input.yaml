@@ -16,6 +16,136 @@ work/INPUT/rmp_jra55_cice_patch.nc:
   hashes:
     binhash: 1e3484bbc9f2d422abf8b5ccd6f064ea
     md5: 08da790afd18eff1c6742af7e4b3c1c2
+work/atmosphere/INPUT/IPO_regressed_anom_fields.nc:
+  fullpath: /g/data/e14/mv7494/JRA55-do-1-4-0/IPO_regressed_anom_fields.nc
+  hashes:
+    binhash: 00c965f66218da85f077769a3c420d17
+    md5: e2f0fc41ecf7d86b1abc14db51bec761
+work/atmosphere/INPUT/IPO_regressed_anom_fields_friver.nc:
+  fullpath: /g/data/e14/mv7494/JRA55-do-1-4-0/IPO_regressed_anom_fields_friver.nc
+  hashes:
+    binhash: 4d5d5ac519630741c462ec0a599c110c
+    md5: e8117c1db682531aa220e1fd7980bd5f
+work/atmosphere/INPUT/N34_1972_regressed_anom_fields.nc:
+  fullpath: /g/data/e14/mv7494/JRA55-do-1-4-0/N34_1972_regressed_anom_fields.nc
+  hashes:
+    binhash: 8a74f5ff05f67fd51679d6bdbf0271be
+    md5: 8b5b5a432cd9510c9a93a6df8db97b8f
+work/atmosphere/INPUT/N34_1972_regressed_anom_fields_friver.nc:
+  fullpath: /g/data/e14/mv7494/JRA55-do-1-4-0/N34_1972_regressed_anom_fields_friver.nc
+  hashes:
+    binhash: b650c629a2a56848f5c8d4b4ba888fb8
+    md5: 698cf7c514fff41da8321371b90f9db8
+work/atmosphere/INPUT/N34_1973_regressed_anom_fields.nc:
+  fullpath: /g/data/e14/mv7494/JRA55-do-1-4-0/N34_1973_regressed_anom_fields.nc
+  hashes:
+    binhash: 8e2599ea813d70024c489dea1c9562d9
+    md5: c10a73592c668a09006f3ff6c827fafa
+work/atmosphere/INPUT/N34_1973_regressed_anom_fields_friver.nc:
+  fullpath: /g/data/e14/mv7494/JRA55-do-1-4-0/N34_1973_regressed_anom_fields_friver.nc
+  hashes:
+    binhash: b37fa8be476b51f165a5192dc5cf9ad8
+    md5: ed24c45b94fdde6e476165f7a1b28638
+work/atmosphere/INPUT/N34_1982_regressed_anom_fields.nc:
+  fullpath: /g/data/e14/mv7494/JRA55-do-1-4-0/N34_1982_regressed_anom_fields.nc
+  hashes:
+    binhash: a95a98016feb2e1977f313a3d531b449
+    md5: 979db211aa96d3e4cfcddd58f0b99648
+work/atmosphere/INPUT/N34_1982_regressed_anom_fields_friver.nc:
+  fullpath: /g/data/e14/mv7494/JRA55-do-1-4-0/N34_1982_regressed_anom_fields_friver.nc
+  hashes:
+    binhash: 528f5bbb3219437f01abaaaddec9c7a8
+    md5: ee0a455668f5bb5284aeb6666aaa7e21
+work/atmosphere/INPUT/N34_1988_regressed_anom_fields.nc:
+  fullpath: /g/data/e14/mv7494/JRA55-do-1-4-0/N34_1988_regressed_anom_fields.nc
+  hashes:
+    binhash: 86d35ee363b6d8b5ce5f5a5ec96eacde
+    md5: bc1ffc756ed9b8f2a8dbe9c12242f1e8
+work/atmosphere/INPUT/N34_1988_regressed_anom_fields_friver.nc:
+  fullpath: /g/data/e14/mv7494/JRA55-do-1-4-0/N34_1988_regressed_anom_fields_friver.nc
+  hashes:
+    binhash: 94708aa8e0a1f3f910faddc1c7dcf1f5
+    md5: 476f3f44470f6377fbf95d83bb89581a
+work/atmosphere/INPUT/N34_1997_regressed_anom_fields.nc:
+  fullpath: /g/data/e14/mv7494/JRA55-do-1-4-0/N34_1997_regressed_anom_fields.nc
+  hashes:
+    binhash: a6a6ec1eb3297488fa17526e04b916e3
+    md5: 5bbcd874788eb2699a0b53ff1fa87c69
+work/atmosphere/INPUT/N34_1997_regressed_anom_fields_friver.nc:
+  fullpath: /g/data/e14/mv7494/JRA55-do-1-4-0/N34_1997_regressed_anom_fields_friver.nc
+  hashes:
+    binhash: b2cf9ba5025debff695728953159904f
+    md5: a67ce4164f2f61352b0ff26cb669cd89
+work/atmosphere/INPUT/N34_1998_regressed_anom_fields.nc:
+  fullpath: /g/data/e14/mv7494/JRA55-do-1-4-0/N34_1998_regressed_anom_fields.nc
+  hashes:
+    binhash: 5404e987c655e87e2721b3ac114b5de5
+    md5: 2125c188b94736299e47e22702ac8588
+work/atmosphere/INPUT/N34_1998_regressed_anom_fields_friver.nc:
+  fullpath: /g/data/e14/mv7494/JRA55-do-1-4-0/N34_1998_regressed_anom_fields_friver.nc
+  hashes:
+    binhash: 97842206a7768bf89b18dfb4b0b0aafe
+    md5: ba4d2d19bc8dd08c470a940efc7a16df
+work/atmosphere/INPUT/N34_2001_regressed_anom_fields.nc:
+  fullpath: /g/data/e14/mv7494/JRA55-do-1-4-0/N34_2001_regressed_anom_fields.nc
+  hashes:
+    binhash: 2befbc811ef47e4ac7a0ef6895a2cbc6
+    md5: 68a96f85711e4c7f2f648b3ab25749a2
+work/atmosphere/INPUT/N34_2001_regressed_anom_fields_friver.nc:
+  fullpath: /g/data/e14/mv7494/JRA55-do-1-4-0/N34_2001_regressed_anom_fields_friver.nc
+  hashes:
+    binhash: 203b499d15c3a843f5c5fb616c7347c6
+    md5: c647029f06a2ba8a896f85f83b2c6387
+work/atmosphere/INPUT/N34_2011_regressed_anom_fields.nc:
+  fullpath: /g/data/e14/mv7494/JRA55-do-1-4-0/N34_2011_regressed_anom_fields.nc
+  hashes:
+    binhash: 24735c247fa956aba3a5a270c5005ff9
+    md5: 2622f29b3f647f11517d2f0445c75b1e
+work/atmosphere/INPUT/N34_2011_regressed_anom_fields_friver.nc:
+  fullpath: /g/data/e14/mv7494/JRA55-do-1-4-0/N34_2011_regressed_anom_fields_friver.nc
+  hashes:
+    binhash: 2da29109968108c90b5fe6fbe0b677ce
+    md5: 8a334f8a91eb68e612e4d26c824282e9
+work/atmosphere/INPUT/N34_2015_regressed_anom_fields.nc:
+  fullpath: /g/data/e14/mv7494/JRA55-do-1-4-0/N34_2015_regressed_anom_fields.nc
+  hashes:
+    binhash: 71f8e8fe920a43055ab6e36396cf5481
+    md5: 16ecccedd5ed833a4139c10669ada7c5
+work/atmosphere/INPUT/N34_2015_regressed_anom_fields_friver.nc:
+  fullpath: /g/data/e14/mv7494/JRA55-do-1-4-0/N34_2015_regressed_anom_fields_friver.nc
+  hashes:
+    binhash: e3a6484e00fc66ec8c891fb3aeba378e
+    md5: f391a6e28db8bf541cc0ccbd08630576
+work/atmosphere/INPUT/N34_regressed_anom_fields.nc:
+  fullpath: /g/data/e14/mv7494/JRA55-do-1-4-0/N34_regressed_anom_fields.nc
+  hashes:
+    binhash: 1e88d3d28c19f300ba3604abb60e5a30
+    md5: 3683fb1b825183e7385bf96062362ea5
+work/atmosphere/INPUT/N34_regressed_anom_fields_friver.nc:
+  fullpath: /g/data/e14/mv7494/JRA55-do-1-4-0/N34_regressed_anom_fields_friver.nc
+  hashes:
+    binhash: 719107474baba6abe0e92ccf0fe404d3
+    md5: 19aafd2fb1be3213a45de15ea67bf79e
+work/atmosphere/INPUT/N3_regressed_anom_fields.nc:
+  fullpath: /g/data/e14/mv7494/JRA55-do-1-4-0/N3_regressed_anom_fields.nc
+  hashes:
+    binhash: ca89059814281be4b0d30d81b632e94b
+    md5: 4700622029f7d541f0173159f20421e8
+work/atmosphere/INPUT/N3_regressed_anom_fields_friver.nc:
+  fullpath: /g/data/e14/mv7494/JRA55-do-1-4-0/N3_regressed_anom_fields_friver.nc
+  hashes:
+    binhash: 14a7f322fae4ef6e973cdb3d51abed02
+    md5: d8fe17955ac43bf8fd0de14f1105d656
+work/atmosphere/INPUT/N4_regressed_anom_fields.nc:
+  fullpath: /g/data/e14/mv7494/JRA55-do-1-4-0/N4_regressed_anom_fields.nc
+  hashes:
+    binhash: 059076af7f516f3b1359b7490958a5ad
+    md5: c0f2b903a97487d28ff18897755abffc
+work/atmosphere/INPUT/N4_regressed_anom_fields_friver.nc:
+  fullpath: /g/data/e14/mv7494/JRA55-do-1-4-0/N4_regressed_anom_fields_friver.nc
+  hashes:
+    binhash: 2f640ac8221d1667359bf0017b0d3d77
+    md5: 80d4204951ca88c583785d36f1cf83d6
 work/atmosphere/INPUT/RYF.q_10.1984_1985.nc:
   fullpath: /g/data/ua8/JRA55-do/RYF/v1-3/RYF.q_10.1984_1985.nc
   hashes:
@@ -166,6 +296,171 @@ work/atmosphere/INPUT/RYF.v_10.2003_2004.nc:
   hashes:
     binhash: d4ab1c739180d9653a51954ddee0767e
     md5: 4e93d297b872db1fc14665048b6a5e1c
+work/atmosphere/INPUT/monthly_mean/JRA55-do-1-4-0_friver_monthly_mean_1958-2019.nc:
+  fullpath: /g/data/e14/mv7494/JRA55-do-1-4-0/monthly_mean/JRA55-do-1-4-0_friver_monthly_mean_1958-2019.nc
+  hashes:
+    binhash: 3227b64570ea1f8618c64905b68cc394
+    md5: bc0e3f8e37fe983008a675e6d3f21b94
+work/atmosphere/INPUT/monthly_mean/JRA55-do-1-4-0_huss_monthly_mean_1958-2019.nc:
+  fullpath: /g/data/e14/mv7494/JRA55-do-1-4-0/monthly_mean/JRA55-do-1-4-0_huss_monthly_mean_1958-2019.nc
+  hashes:
+    binhash: 00c2d4c9ea2d06c0d95097353659e68d
+    md5: 9486f34ecad02a11bbdcbb89530102dd
+work/atmosphere/INPUT/monthly_mean/JRA55-do-1-4-0_prra_monthly_mean_1958-2019.nc:
+  fullpath: /g/data/e14/mv7494/JRA55-do-1-4-0/monthly_mean/JRA55-do-1-4-0_prra_monthly_mean_1958-2019.nc
+  hashes:
+    binhash: f2e699738359379a00ce17bf7a280c75
+    md5: 6a3060e188792c3706388b9758d4d429
+work/atmosphere/INPUT/monthly_mean/JRA55-do-1-4-0_prsn_monthly_mean_1958-2019.nc:
+  fullpath: /g/data/e14/mv7494/JRA55-do-1-4-0/monthly_mean/JRA55-do-1-4-0_prsn_monthly_mean_1958-2019.nc
+  hashes:
+    binhash: 931187eef49cf54b45412de78c98c881
+    md5: a0c67c585f3563df1b3ba6abc78942d5
+work/atmosphere/INPUT/monthly_mean/JRA55-do-1-4-0_psl_monthly_mean_1958-2019.nc:
+  fullpath: /g/data/e14/mv7494/JRA55-do-1-4-0/monthly_mean/JRA55-do-1-4-0_psl_monthly_mean_1958-2019.nc
+  hashes:
+    binhash: 08eb42a97c2dc33b1f9d9ec67f2729fe
+    md5: c0ea57294a156b45590bb9980c2bc652
+work/atmosphere/INPUT/monthly_mean/JRA55-do-1-4-0_rlds_monthly_mean_1958-2019.nc:
+  fullpath: /g/data/e14/mv7494/JRA55-do-1-4-0/monthly_mean/JRA55-do-1-4-0_rlds_monthly_mean_1958-2019.nc
+  hashes:
+    binhash: 37bccd28002d107032414110434e6b92
+    md5: 7ca3c1de81c22b31974139d4d3e197d7
+work/atmosphere/INPUT/monthly_mean/JRA55-do-1-4-0_rsds_monthly_mean_1958-2019.nc:
+  fullpath: /g/data/e14/mv7494/JRA55-do-1-4-0/monthly_mean/JRA55-do-1-4-0_rsds_monthly_mean_1958-2019.nc
+  hashes:
+    binhash: cca53fb79d7709f6bd31554f4af26d21
+    md5: 105d0a5525d20540ebfb8fe9d9a21e8e
+work/atmosphere/INPUT/monthly_mean/JRA55-do-1-4-0_tas_monthly_mean_1958-2019.nc:
+  fullpath: /g/data/e14/mv7494/JRA55-do-1-4-0/monthly_mean/JRA55-do-1-4-0_tas_monthly_mean_1958-2019.nc
+  hashes:
+    binhash: 0c2dba071dc19312ba873af27563d01c
+    md5: e844641b70248011a487b13f7d131751
+work/atmosphere/INPUT/monthly_mean/JRA55-do-1-4-0_taux_monthly_mean_1958-2019.nc:
+  fullpath: /g/data/e14/mv7494/JRA55-do-1-4-0/monthly_mean/JRA55-do-1-4-0_taux_monthly_mean_1958-2019.nc
+  hashes:
+    binhash: 850db122c914b23749075f42b1a26d72
+    md5: c96a4ecde8062bb9ceb658d97ba121d3
+work/atmosphere/INPUT/monthly_mean/JRA55-do-1-4-0_tauy_monthly_mean_1958-2019.nc:
+  fullpath: /g/data/e14/mv7494/JRA55-do-1-4-0/monthly_mean/JRA55-do-1-4-0_tauy_monthly_mean_1958-2019.nc
+  hashes:
+    binhash: 8c97b08e70e0b60449693839d6104afd
+    md5: e52533e4a3bce5e28c6bb988cda45625
+work/atmosphere/INPUT/monthly_mean/JRA55-do-1-4-0_ts_monthly_mean_1958-2019.nc:
+  fullpath: /g/data/e14/mv7494/JRA55-do-1-4-0/monthly_mean/JRA55-do-1-4-0_ts_monthly_mean_1958-2019.nc
+  hashes:
+    binhash: f8bfcb6502705ad94bd69d6bcd31f0dd
+    md5: 0f619a4091488aa57f7539317ad19272
+work/atmosphere/INPUT/monthly_mean/JRA55-do-1-4-0_uas_monthly_mean_1958-2019.nc:
+  fullpath: /g/data/e14/mv7494/JRA55-do-1-4-0/monthly_mean/JRA55-do-1-4-0_uas_monthly_mean_1958-2019.nc
+  hashes:
+    binhash: 0da269cd583feb650b69cd80317de521
+    md5: b0a2ed627cdc61451751967f4811c4b0
+work/atmosphere/INPUT/monthly_mean/JRA55-do-1-4-0_vas_monthly_mean_1958-2019.nc:
+  fullpath: /g/data/e14/mv7494/JRA55-do-1-4-0/monthly_mean/JRA55-do-1-4-0_vas_monthly_mean_1958-2019.nc
+  hashes:
+    binhash: 22b9761fa9ec5d7892d7fce099e9cff3
+    md5: 75ef16cb4c6098c78a6fdf4e9abcea29
+work/atmosphere/INPUT/regression_patterns/RYF.friver.1990_1991_pattern_N34.nc:
+  fullpath: /g/data/e14/mv7494/JRA55-do-1-4-0/regression_patterns/RYF.friver.1990_1991_pattern_N34.nc
+  hashes:
+    binhash: beb42ae1182dfc289ccb15ced729f5ce
+    md5: 260691c38d55e9df3ce92b1ad3789e4d
+work/atmosphere/INPUT/regression_patterns/RYF.huss.1990_1991_pattern_N34.nc:
+  fullpath: /g/data/e14/mv7494/JRA55-do-1-4-0/regression_patterns/RYF.huss.1990_1991_pattern_N34.nc
+  hashes:
+    binhash: d7895652cfec01851cb9757592f56a00
+    md5: 64652a8c8d97e9958016a62b19482cb1
+work/atmosphere/INPUT/regression_patterns/RYF.prra.1990_1991_pattern_N34.nc:
+  fullpath: /g/data/e14/mv7494/JRA55-do-1-4-0/regression_patterns/RYF.prra.1990_1991_pattern_N34.nc
+  hashes:
+    binhash: 6881b544cd0c5883c60ca7f4c2f52fe6
+    md5: 9f5e1b0ebfeceeb4f6d5eda11a85cee6
+work/atmosphere/INPUT/regression_patterns/RYF.prsn.1990_1991_pattern_N34.nc:
+  fullpath: /g/data/e14/mv7494/JRA55-do-1-4-0/regression_patterns/RYF.prsn.1990_1991_pattern_N34.nc
+  hashes:
+    binhash: d9742f31519cc74be0168cda58faf350
+    md5: ba7bcd573ab7c89b3f637d07074829b6
+work/atmosphere/INPUT/regression_patterns/RYF.psl.1990_1991_pattern_N34.nc:
+  fullpath: /g/data/e14/mv7494/JRA55-do-1-4-0/regression_patterns/RYF.psl.1990_1991_pattern_N34.nc
+  hashes:
+    binhash: 6499c249c12b4efb3a29421002cc268f
+    md5: 0ee8bc62b21c246e714958072d9517f1
+work/atmosphere/INPUT/regression_patterns/RYF.rlds.1990_1991_pattern_N34.nc:
+  fullpath: /g/data/e14/mv7494/JRA55-do-1-4-0/regression_patterns/RYF.rlds.1990_1991_pattern_N34.nc
+  hashes:
+    binhash: 199a3d32538704ed7a5dc17668dfbdbd
+    md5: 62cc6d0f4014daf06e8a532db0bd7947
+work/atmosphere/INPUT/regression_patterns/RYF.rsds.1990_1991_pattern_N34.nc:
+  fullpath: /g/data/e14/mv7494/JRA55-do-1-4-0/regression_patterns/RYF.rsds.1990_1991_pattern_N34.nc
+  hashes:
+    binhash: dfb8e1f2a37158fb8914b262011a2816
+    md5: 4e4ac0760016cf758882c5d0de02de51
+work/atmosphere/INPUT/regression_patterns/RYF.tas.1990_1991_pattern_N34.nc:
+  fullpath: /g/data/e14/mv7494/JRA55-do-1-4-0/regression_patterns/RYF.tas.1990_1991_pattern_N34.nc
+  hashes:
+    binhash: ef4ad5fbae68906c2eed1a5febe08c57
+    md5: 4f25fdffdca19d6b90d4e88950e7de23
+work/atmosphere/INPUT/regression_patterns/RYF.uas.1990_1991_pattern_N34.nc:
+  fullpath: /g/data/e14/mv7494/JRA55-do-1-4-0/regression_patterns/RYF.uas.1990_1991_pattern_N34.nc
+  hashes:
+    binhash: 252a37851baf5edb0d3b97824a016e90
+    md5: 0f20d32711a1492b1cb1f79b29587651
+work/atmosphere/INPUT/regression_patterns/RYF.vas.1990_1991_pattern_N34.nc:
+  fullpath: /g/data/e14/mv7494/JRA55-do-1-4-0/regression_patterns/RYF.vas.1990_1991_pattern_N34.nc
+  hashes:
+    binhash: cad4bed857577b978b1eca729a073519
+    md5: 9c6b3040535b244e385c06913076c7cf
+work/atmosphere/INPUT/regression_time_series/RYF.friver.1990_1991_time_series.nc:
+  fullpath: /g/data/e14/mv7494/JRA55-do-1-4-0/regression_time_series/RYF.friver.1990_1991_time_series.nc
+  hashes:
+    binhash: 203ba7dba85622fe8129fe518e08f113
+    md5: 86dd4d3c160e700f6cc777a3b6b3c3bc
+work/atmosphere/INPUT/regression_time_series/RYF.huss.1990_1991_time_series.nc:
+  fullpath: /g/data/e14/mv7494/JRA55-do-1-4-0/regression_time_series/RYF.huss.1990_1991_time_series.nc
+  hashes:
+    binhash: 4bf3b491877cf47d8ed7bf41b0ac4e05
+    md5: 10dd05f1954cec3913fe887419c1249b
+work/atmosphere/INPUT/regression_time_series/RYF.prra.1990_1991_time_series.nc:
+  fullpath: /g/data/e14/mv7494/JRA55-do-1-4-0/regression_time_series/RYF.prra.1990_1991_time_series.nc
+  hashes:
+    binhash: bcb181896e971e794a9a8d509feb96e1
+    md5: 6531ae34a5eebade9aed3705f914ef71
+work/atmosphere/INPUT/regression_time_series/RYF.prsn.1990_1991_time_series.nc:
+  fullpath: /g/data/e14/mv7494/JRA55-do-1-4-0/regression_time_series/RYF.prsn.1990_1991_time_series.nc
+  hashes:
+    binhash: d69a1f0f62612a7ac4c04e0ad5506393
+    md5: 5e9e27110a70c2f2c11c8aad9e875c3d
+work/atmosphere/INPUT/regression_time_series/RYF.psl.1990_1991_time_series.nc:
+  fullpath: /g/data/e14/mv7494/JRA55-do-1-4-0/regression_time_series/RYF.psl.1990_1991_time_series.nc
+  hashes:
+    binhash: 5c0d87f08971a0eeef88f46f52e4aeed
+    md5: c927949163e7731fd6a827c7312716fc
+work/atmosphere/INPUT/regression_time_series/RYF.rlds.1990_1991_time_series.nc:
+  fullpath: /g/data/e14/mv7494/JRA55-do-1-4-0/regression_time_series/RYF.rlds.1990_1991_time_series.nc
+  hashes:
+    binhash: 49076b9421814689d3bc8b5b321107cd
+    md5: 45c05192aabdd50206fdd169fe71ac98
+work/atmosphere/INPUT/regression_time_series/RYF.rsds.1990_1991_time_series.nc:
+  fullpath: /g/data/e14/mv7494/JRA55-do-1-4-0/regression_time_series/RYF.rsds.1990_1991_time_series.nc
+  hashes:
+    binhash: 22577b35c8defa11af4a8d1daacf088f
+    md5: 2414212fcd15704d9131f56727741258
+work/atmosphere/INPUT/regression_time_series/RYF.tas.1990_1991_time_series.nc:
+  fullpath: /g/data/e14/mv7494/JRA55-do-1-4-0/regression_time_series/RYF.tas.1990_1991_time_series.nc
+  hashes:
+    binhash: 217d7a78c839c9f1c4e6d106a8b547be
+    md5: bf277ae3744c5b26b1ef2de8ecb6a219
+work/atmosphere/INPUT/regression_time_series/RYF.uas.1990_1991_time_series.nc:
+  fullpath: /g/data/e14/mv7494/JRA55-do-1-4-0/regression_time_series/RYF.uas.1990_1991_time_series.nc
+  hashes:
+    binhash: 1420cbdd5e785cd21c58539380f906ad
+    md5: e23ff3d9b8c27062d0609bda9cb6b1c3
+work/atmosphere/INPUT/regression_time_series/RYF.vas.1990_1991_time_series.nc:
+  fullpath: /g/data/e14/mv7494/JRA55-do-1-4-0/regression_time_series/RYF.vas.1990_1991_time_series.nc
+  hashes:
+    binhash: e7f55e96506546a40fb9490e7e7017ab
+    md5: 4be03af7ba8f4a8ea1de2ab4207b8655
 work/atmosphere/INPUT/rmp_jrar_to_cict_CONSERV.nc:
   fullpath: /g/data/ik11/inputs/access-om2/input_20200530/yatm_025deg/rmp_jrar_to_cict_CONSERV.nc
   hashes:
