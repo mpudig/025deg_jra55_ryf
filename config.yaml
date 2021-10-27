@@ -37,21 +37,29 @@ submodels:
 
 # Collation
 collate:
+  restart: true
+  mpi: true
   walltime: 1:00:00
-  mem: 30GB
+  mem: 16GB
   ncpus: 4
-  queue: express
-  exe: /g/data/ik11/inputs/access-om2/bin/mppnccombine
+  queue: normal
+  exe: /g/data/ik11/inputs/access-om2/bin/mppnccombine-fast
 
 # Misc
 runlog: true
 stacksize: unlimited
-mpirun: --mca orte_base_help_aggregate 0
-qsub_flags: -lother=hyperthread -W umask=027 -l storage=gdata/hh5+gdata/ik11+scratch/e14+gdata/ua8
+restart_freq: 1  # use tidy_restarts.py instead
+mpirun: --mca io ompio --mca io_ompio_num_aggregators 1
+qsub_flags: -W umask=027
+env:
+    UCX_LOG_LEVEL: 'error'
 # set number of cores per node (28 for normalbw, 48 for normal on gadi)
 platform:
     nodesize: 48
+# sweep and resubmit on specific errors - see https://github.com/payu-org/payu/issues/241#issuecomment-610739771
+userscripts:
+    error: resub.sh
+    run: rm -f resubmit.count
 
-# DANGER! Do not uncomment this without checking the script is synching 
-# to the correct location!
-postscript: sync_output_to_gdata.sh
+# DANGER! Do not uncomment this without checking the script is syncing to the correct location!
+# postscript: sync_data.sh
