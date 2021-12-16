@@ -4,43 +4,115 @@
     {
       "filename": "INPUT/RYF.rsds.1990_1991.nc",
       "fieldname": "rsds",
-      "cname": "swfld_ai"
+      "cname": "swfld_ai",
+      "perturbations": [
+        {
+          "type": "separable",
+          "dimension": ["temporal", "spatial"],
+          "value": ["INPUT/regression_time_series/RYF.rsds.1990_1991_time_series.nc", "INPUT/regression_patterns/RYF.rsds.1990_1991_pattern_N34.nc"],
+          "calendar": "forcing",
+          "comment": ""
+        },
+      ]
     },
     {
       "filename": "INPUT/RYF.rlds.1990_1991.nc",
       "fieldname": "rlds",
-      "cname": "lwfld_ai"
+      "cname": "lwfld_ai",
+      "perturbations": [
+        {
+          "type": "separable",
+          "dimension": ["temporal", "spatial"],
+          "value": ["INPUT/regression_time_series/RYF.rlds.1990_1991_time_series.nc", "INPUT/regression_patterns/RYF.rlds.1990_1991_pattern_N34.nc"],
+          "calendar": "forcing",
+          "comment": ""
+        },
+      ]
     },
     {
       "filename": "INPUT/RYF.rain.1990_1991.nc",
       "fieldname": "prrn",
-      "cname": "rain_ai"
+      "cname": "rain_ai",
+      "perturbations": [
+        {
+          "type": "separable",
+          "dimension": ["temporal", "spatial"],
+          "value": ["INPUT/regression_time_series/RYF.prrn.1990_1991_time_series.nc", "INPUT/regression_patterns/RYF.prrn.1990_1991_pattern_N34.nc"],
+          "calendar": "forcing",
+          "comment": ""
+        },
+      ]
     },
     {
       "filename": "INPUT/RYF.snow.1990_1991.nc",
       "fieldname": "prsn",
-      "cname": "snow_ai"
+      "cname": "snow_ai",
+      "perturbations": [
+        {
+          "type": "separable",
+          "dimension": ["temporal", "spatial"],
+          "value": ["INPUT/regression_time_series/RYF.prsn.1990_1991_time_series.nc", "INPUT/regression_patterns/RYF.prsn.1990_1991_pattern_N34.nc"],
+          "calendar": "forcing",
+          "comment": ""
+        },
+      ]
     },
     {
       "filename": "INPUT/RYF.slp.1990_1991.nc",
       "fieldname": "psl",
-      "cname": "press_ai"
+      "cname": "press_ai",
+      "perturbations": [
+        {
+          "type": "separable",
+          "dimension": ["temporal", "spatial"],
+          "value": ["INPUT/regression_time_series/RYF.psl.1990_1991_time_series.nc", "INPUT/regression_patterns/RYF.psl.1990_1991_pattern_N34.nc"],
+          "calendar": "forcing",
+          "comment": ""
+        },
+      ]
     },
     {
       "filename": "INPUT/RYF.runoff_all.1990_1991.nc",
       "fieldname": "friver",
       "cname": "runof_ai",
-	"domain": "land"
+	"domain": "land",
+      "perturbations": [
+        {
+          "type": "separable",
+          "dimension": ["temporal", "spatial"],
+          "value": ["INPUT/regression_time_series/RYF.friver.1990_1991_time_series.nc", "INPUT/regression_patterns/RYF.friver.1990_1991_pattern_N34.nc"],
+          "calendar": "forcing",
+          "comment": ""
+        },
+      ]
     },
     {
       "filename": "INPUT/RYF.t_10.1990_1991.nc",
       "fieldname": "tas_10m",
-      "cname": "tair_ai"
+      "cname": "tair_ai",
+      "perturbations": [
+        {
+          "type": "separable",
+          "dimension": ["temporal", "spatial"],
+          "value": ["INPUT/regression_time_series/RYF.tas_10m.1990_1991_time_series.nc", "INPUT/regression_patterns/RYF.tas_10m.1990_1991_pattern_N34.nc"],
+          "calendar": "forcing",
+          "comment": ""
+        },
+      ]
     },
     {
       "filename": "INPUT/RYF.q_10.1990_1991.nc",
       "fieldname": "huss_10m",
-      "cname": "qair_ai"
+      "cname": "qair_ai",
+      "perturbations": [
+        {
+          "type": "separable",
+          "dimension": ["temporal", "spatial"],
+          "value": ["INPUT/regression_time_series/RYF.huss_10m.1990_1991_time_series.nc", "INPUT/regression_patterns/RYF.huss_10m.1990_1991_pattern_N34.nc"],
+          "calendar": "forcing",
+          "comment": ""
+        },
+      ]
     },
     {
       "filename": "INPUT/RYF.u_10.1990_1991.nc",

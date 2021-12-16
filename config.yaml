@@ -4,11 +4,11 @@
 project: e14
 queue: normal
 walltime: 4:00:00
-jobname: 025deg_jra55_ryf
+jobname: 025deg_ENSOFull
 ncpus: 1824
 
 # Force payu to always find, and save, files in this short (or scratch) project directory
-shortpath: /scratch/e14
+#shortpath: /scratch/e14
 
 # Model configuration
 name: common

@@ -339,12 +339,12 @@ work/atmosphere/INPUT/monthly_mean/JRA55-do-1-4-0_tas_monthly_mean_1958-2019.nc:
 work/atmosphere/INPUT/monthly_mean/JRA55-do-1-4-0_taux_monthly_mean_1958-2019.nc:
   fullpath: /g/data/e14/mv7494/JRA55-do-1-4-0/monthly_mean/JRA55-do-1-4-0_taux_monthly_mean_1958-2019.nc
   hashes:
-    binhash: aafaa19fcacf975f312e7d3d23046ef2
+    binhash: 6de8f5506572b662f9d1451f059d5937
     md5: c96a4ecde8062bb9ceb658d97ba121d3
 work/atmosphere/INPUT/monthly_mean/JRA55-do-1-4-0_tauy_monthly_mean_1958-2019.nc:
   fullpath: /g/data/e14/mv7494/JRA55-do-1-4-0/monthly_mean/JRA55-do-1-4-0_tauy_monthly_mean_1958-2019.nc
   hashes:
-    binhash: daf3c68b3ac3fe86f4d1a7ff7ad5a2ab
+    binhash: e8c7eaa6f091fd2f1afafac760821aa6
     md5: e52533e4a3bce5e28c6bb988cda45625
 work/atmosphere/INPUT/monthly_mean/JRA55-do-1-4-0_ts_monthly_mean_1958-2019.nc:
   fullpath: /g/data/e14/mv7494/JRA55-do-1-4-0/monthly_mean/JRA55-do-1-4-0_ts_monthly_mean_1958-2019.nc
@@ -361,6 +361,46 @@ work/atmosphere/INPUT/monthly_mean/JRA55-do-1-4-0_vas_monthly_mean_1958-2019.nc:
   hashes:
     binhash: 22b9761fa9ec5d7892d7fce099e9cff3
     md5: 75ef16cb4c6098c78a6fdf4e9abcea29
+work/atmosphere/INPUT/regression_patterns/RYF.friver.1990_1991_pattern_N34.nc:
+  fullpath: /g/data/e14/mv7494/JRA55-do-1-4-0/regression_patterns/RYF.friver.1990_1991_pattern_N34.nc
+  hashes:
+    binhash: e38b6394f91c25954fc186a64bf6495e
+    md5: 260691c38d55e9df3ce92b1ad3789e4d
+work/atmosphere/INPUT/regression_patterns/RYF.huss_10m.1990_1991_pattern_N34.nc:
+  fullpath: /g/data/e14/mv7494/JRA55-do-1-4-0/regression_patterns/RYF.huss_10m.1990_1991_pattern_N34.nc
+  hashes:
+    binhash: 9bbe6ce6efbf2367f6bbecceedf37105
+    md5: 66d3a855da42320731b282ed2a9dcaad
+work/atmosphere/INPUT/regression_patterns/RYF.prrn.1990_1991_pattern_N34.nc:
+  fullpath: /g/data/e14/mv7494/JRA55-do-1-4-0/regression_patterns/RYF.prrn.1990_1991_pattern_N34.nc
+  hashes:
+    binhash: dd26bef7ff46e7e66593c42814092faa
+    md5: 319b15cd178ab1c27a4b4498a1239132
+work/atmosphere/INPUT/regression_patterns/RYF.prsn.1990_1991_pattern_N34.nc:
+  fullpath: /g/data/e14/mv7494/JRA55-do-1-4-0/regression_patterns/RYF.prsn.1990_1991_pattern_N34.nc
+  hashes:
+    binhash: 2d928a4d97d2832113333b0174abaf33
+    md5: ba7bcd573ab7c89b3f637d07074829b6
+work/atmosphere/INPUT/regression_patterns/RYF.psl.1990_1991_pattern_N34.nc:
+  fullpath: /g/data/e14/mv7494/JRA55-do-1-4-0/regression_patterns/RYF.psl.1990_1991_pattern_N34.nc
+  hashes:
+    binhash: 868ddf44375919f24cce71a7eb6974c2
+    md5: 0ee8bc62b21c246e714958072d9517f1
+work/atmosphere/INPUT/regression_patterns/RYF.rlds.1990_1991_pattern_N34.nc:
+  fullpath: /g/data/e14/mv7494/JRA55-do-1-4-0/regression_patterns/RYF.rlds.1990_1991_pattern_N34.nc
+  hashes:
+    binhash: d8c7f41280ca0bcb96e95ea06a84e2da
+    md5: 62cc6d0f4014daf06e8a532db0bd7947
+work/atmosphere/INPUT/regression_patterns/RYF.rsds.1990_1991_pattern_N34.nc:
+  fullpath: /g/data/e14/mv7494/JRA55-do-1-4-0/regression_patterns/RYF.rsds.1990_1991_pattern_N34.nc
+  hashes:
+    binhash: 0fef6144a61120748bc3181a084bc922
+    md5: 4e4ac0760016cf758882c5d0de02de51
+work/atmosphere/INPUT/regression_patterns/RYF.tas_10m.1990_1991_pattern_N34.nc:
+  fullpath: /g/data/e14/mv7494/JRA55-do-1-4-0/regression_patterns/RYF.tas_10m.1990_1991_pattern_N34.nc
+  hashes:
+    binhash: f53ebc54194793dd1763f65ffb20e5be
+    md5: eabbb29200031c47e2d41278744aad5a
 work/atmosphere/INPUT/regression_patterns/RYF.uas_10m.1990_1991_pattern_N34.nc:
   fullpath: /g/data/e14/mv7494/JRA55-do-1-4-0/regression_patterns/RYF.uas_10m.1990_1991_pattern_N34.nc
   hashes:
@@ -371,6 +411,46 @@ work/atmosphere/INPUT/regression_patterns/RYF.vas_10m.1990_1991_pattern_N34.nc:
   hashes:
     binhash: e172f59ebb436cf03a248dd88902532e
     md5: 47b5b3a00dd3fe9d83ad225047c6077e
+work/atmosphere/INPUT/regression_time_series/RYF.friver.1990_1991_time_series.nc:
+  fullpath: /g/data/e14/mv7494/JRA55-do-1-4-0/regression_time_series/RYF.friver.1990_1991_time_series.nc
+  hashes:
+    binhash: 7ff375e2251ced7e2afe100d2447c204
+    md5: 7817220dfe7da9f29e0008d78290a985
+work/atmosphere/INPUT/regression_time_series/RYF.huss_10m.1990_1991_time_series.nc:
+  fullpath: /g/data/e14/mv7494/JRA55-do-1-4-0/regression_time_series/RYF.huss_10m.1990_1991_time_series.nc
+  hashes:
+    binhash: 7807f2cb3e8d51c97a8b85b15e419e76
+    md5: 28b11824e4eabc63dc2ed237a55175f1
+work/atmosphere/INPUT/regression_time_series/RYF.prrn.1990_1991_time_series.nc:
+  fullpath: /g/data/e14/mv7494/JRA55-do-1-4-0/regression_time_series/RYF.prrn.1990_1991_time_series.nc
+  hashes:
+    binhash: 38c0b5ec8291dad8f48a96418d664d2c
+    md5: 6b95d87ba13c266574e205a68a50ba0e
+work/atmosphere/INPUT/regression_time_series/RYF.prsn.1990_1991_time_series.nc:
+  fullpath: /g/data/e14/mv7494/JRA55-do-1-4-0/regression_time_series/RYF.prsn.1990_1991_time_series.nc
+  hashes:
+    binhash: 47fdf0ffb1e0c42d29f9b6e2ef32f02a
+    md5: 88917f07f5cd9936eb773ab660618719
+work/atmosphere/INPUT/regression_time_series/RYF.psl.1990_1991_time_series.nc:
+  fullpath: /g/data/e14/mv7494/JRA55-do-1-4-0/regression_time_series/RYF.psl.1990_1991_time_series.nc
+  hashes:
+    binhash: 1f699b5dd9cf3326e805bb7632ffd486
+    md5: 2b785a85506b8bfc4e11c9ad766a2974
+work/atmosphere/INPUT/regression_time_series/RYF.rlds.1990_1991_time_series.nc:
+  fullpath: /g/data/e14/mv7494/JRA55-do-1-4-0/regression_time_series/RYF.rlds.1990_1991_time_series.nc
+  hashes:
+    binhash: c1ba60208cd2379f9112e89903679499
+    md5: b380b5f54176d2ccf2ff24a925304b94
+work/atmosphere/INPUT/regression_time_series/RYF.rsds.1990_1991_time_series.nc:
+  fullpath: /g/data/e14/mv7494/JRA55-do-1-4-0/regression_time_series/RYF.rsds.1990_1991_time_series.nc
+  hashes:
+    binhash: 4f57b677a29ba2ee7d9bb7bc65ee94ac
+    md5: 71073d3fe90505d8aad196937d4676a7
+work/atmosphere/INPUT/regression_time_series/RYF.tas_10m.1990_1991_time_series.nc:
+  fullpath: /g/data/e14/mv7494/JRA55-do-1-4-0/regression_time_series/RYF.tas_10m.1990_1991_time_series.nc
+  hashes:
+    binhash: de6835827efb3cfaf0d18ba57dd51dec
+    md5: 3b62456a3a64ed276e69b6299c352620
 work/atmosphere/INPUT/regression_time_series/RYF.uas_10m.1990_1991_time_series.nc:
   fullpath: /g/data/e14/mv7494/JRA55-do-1-4-0/regression_time_series/RYF.uas_10m.1990_1991_time_series.nc
   hashes:
