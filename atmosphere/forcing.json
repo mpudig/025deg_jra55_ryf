@@ -51,7 +51,7 @@
         {
           "type": "separable",
           "dimension": ["temporal", "spatial"],
-          "value": ["INPUT/regression_time_series/RYF.prsn.1990_1991_time_series.nc", "INPUT/regression_patterns/RYF.prsn.1990_1991_pattern_N34.nc"],
+          "value": ["INPUT/RYF.prsn.1990_1991_time_series_mean_anoms_EN.nc", "INPUT/RYF.prsn.1990_1991_pattern_mean_anoms_EN.nc"],
           "calendar": "forcing",
           "comment": ""
         },
