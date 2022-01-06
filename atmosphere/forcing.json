@@ -9,7 +9,7 @@
         {
           "type": "separable",
           "dimension": ["temporal", "spatial"],
-          "value": ["INPUT/regression_time_series/RYF.rsds.1990_1991_time_series.nc", "INPUT/regression_patterns/RYF.rsds.1990_1991_pattern_N34.nc"],
+          "value": ["INPUT/RYF.rsds.1990_1991_time_series_mean_anoms_EN.nc", "INPUT/RYF.rsds.1990_1991_pattern_mean_anoms_EN.nc"],
           "calendar": "forcing",
           "comment": ""
         },
@@ -23,7 +23,7 @@
         {
           "type": "separable",
           "dimension": ["temporal", "spatial"],
-          "value": ["INPUT/regression_time_series/RYF.rlds.1990_1991_time_series.nc", "INPUT/regression_patterns/RYF.rlds.1990_1991_pattern_N34.nc"],
+          "value": ["INPUT/RYF.rlds.1990_1991_time_series_mean_anoms_EN.nc", "INPUT/RYF.rlds.1990_1991_pattern_mean_anoms_EN.nc"],
           "calendar": "forcing",
           "comment": ""
         },
@@ -37,7 +37,7 @@
         {
           "type": "separable",
           "dimension": ["temporal", "spatial"],
-          "value": ["INPUT/regression_time_series/RYF.prrn.1990_1991_time_series.nc", "INPUT/regression_patterns/RYF.prrn.1990_1991_pattern_N34.nc"],
+          "value": ["INPUT/RYF.prrn.1990_1991_time_series_mean_anoms_EN.nc", "INPUT/RYF.prrn.1990_1991_pattern_mean_anoms_EN.nc"],
           "calendar": "forcing",
           "comment": ""
         },
@@ -65,7 +65,7 @@
         {
           "type": "separable",
           "dimension": ["temporal", "spatial"],
-          "value": ["INPUT/regression_time_series/RYF.psl.1990_1991_time_series.nc", "INPUT/regression_patterns/RYF.psl.1990_1991_pattern_N34.nc"],
+          "value": ["INPUT/RYF.psl.1990_1991_time_series_mean_anoms_EN.nc", "INPUT/RYF.psl.1990_1991_pattern_mean_anoms_EN.nc"],
           "calendar": "forcing",
           "comment": ""
         },
@@ -80,7 +80,7 @@
         {
           "type": "separable",
           "dimension": ["temporal", "spatial"],
-          "value": ["INPUT/regression_time_series/RYF.friver.1990_1991_time_series.nc", "INPUT/regression_patterns/RYF.friver.1990_1991_pattern_N34.nc"],
+          "value": ["INPUT/RYF.friver.1990_1991_time_series_mean_anoms_EN.nc", "INPUT/RYF.friver.1990_1991_pattern_mean_anoms_EN.nc"],
           "calendar": "forcing",
           "comment": ""
         },
@@ -94,7 +94,7 @@
         {
           "type": "separable",
           "dimension": ["temporal", "spatial"],
-          "value": ["INPUT/regression_time_series/RYF.tas_10m.1990_1991_time_series.nc", "INPUT/regression_patterns/RYF.tas_10m.1990_1991_pattern_N34.nc"],
+          "value": ["INPUT/RYF.tas_10m.1990_1991_time_series_mean_anoms_EN.nc", "INPUT/RYF.tas_10m.1990_1991_pattern_mean_anoms_EN.nc"],
           "calendar": "forcing",
           "comment": ""
         },
@@ -108,7 +108,7 @@
         {
           "type": "separable",
           "dimension": ["temporal", "spatial"],
-          "value": ["INPUT/regression_time_series/RYF.huss_10m.1990_1991_time_series.nc", "INPUT/regression_patterns/RYF.huss_10m.1990_1991_pattern_N34.nc"],
+          "value": ["INPUT/RYF.huss_10m.1990_1991_time_series_mean_anoms_EN.nc", "INPUT/RYF.huss_10m.1990_1991_pattern_mean_anoms_EN.nc"],
           "calendar": "forcing",
           "comment": ""
         },
@@ -122,7 +122,7 @@
         {
           "type": "separable",
           "dimension": ["temporal", "spatial"],
-          "value": ["INPUT/regression_time_series/RYF.uas_10m.1990_1991_time_series.nc", "INPUT/regression_patterns/RYF.uas_10m.1990_1991_pattern_N34.nc"],
+          "value": ["INPUT/RYF.uas_10m.1990_1991_time_series_mean_anoms_EN.nc", "INPUT/RYF.uas_10m.1990_1991_pattern_mean_anoms_EN.nc"],
           "calendar": "forcing",
           "comment": "N34(t) x EOF1(x,y)"
         },
@@ -136,7 +136,7 @@
         {
           "type": "separable",
           "dimension": ["temporal", "spatial"],
-          "value": ["INPUT/regression_time_series/RYF.vas_10m.1990_1991_time_series.nc", "INPUT/regression_patterns/RYF.vas_10m.1990_1991_pattern_N34.nc"],
+          "value": ["INPUT/RYF.vas_10m.1990_1991_time_series_mean_anoms_EN.nc", "INPUT/RYF.vas_10m.1990_1991_pattern_mean_anoms_EN.nc"],
           "calendar": "forcing",
           "comment": "N34(t) x EOF1(x,y)"
         },
