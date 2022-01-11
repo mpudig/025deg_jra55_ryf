@@ -4,7 +4,12 @@ version: 1.0
 work/accessom2_restart.nml:
   fullpath: /scratch/e14/mv7494/access-om2/archive/025deg_jra55_ryf_ENFull/restart325/accessom2_restart.nml
   hashes:
-    binhash: a9c9bf33a2d177a545150ed1e111c33b
+    binhash: 44eedf3714a9e95a9dcfe751aca7850f
+    md5: d2061eb88d5e6509c305d68483e44dd9
+work/accessom2_restart.nml~:
+  fullpath: /scratch/e14/mv7494/access-om2/archive/025deg_jra55_ryf_ENFull/restart325/accessom2_restart.nml~
+  hashes:
+    binhash: 5b8788780950a72643e3f7605df6946a
     md5: 482bb5282629a07d2132f1f21ca4f554
 work/ice/RESTART/grid.nc:
   copy: true
@@ -1269,7 +1274,12 @@ work/ocean/INPUT/ocean_sbc.res.nc.0029:
 work/ocean/INPUT/ocean_solo.res:
   fullpath: /scratch/e14/mv7494/access-om2/archive/025deg_jra55_ryf_ENFull/restart325/ocean/ocean_solo.res
   hashes:
-    binhash: 25c4c13efaed2293b67695fb00535fc4
+    binhash: 441f64cd433c364c925ea8671077d2ac
+    md5: 44503fcef95c44fe8d5b00036e410ab0
+work/ocean/INPUT/ocean_solo.res~:
+  fullpath: /scratch/e14/mv7494/access-om2/archive/025deg_jra55_ryf_ENFull/restart325/ocean/ocean_solo.res~
+  hashes:
+    binhash: 53932af8e9c8a5931380cf64a4b86a58
     md5: 83ebcd90a116a364f8e299b270c86def
 work/ocean/INPUT/ocean_temp_salt.res.nc.0000:
   fullpath: /scratch/e14/mv7494/access-om2/archive/025deg_jra55_ryf_ENFull/restart325/ocean/ocean_temp_salt.res.nc.0000
