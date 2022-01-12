@@ -10,7 +10,7 @@
           "type": "offset",
           "dimension": "temporal",
           "value": "INPUT/RYF.rsds.1990_1991_time_series_mean_anoms_EN.nc",
-          "calendar": "experiment",
+          "calendar": "forcing",
           "comment": ""
         }
       ]
@@ -24,7 +24,7 @@
           "type": "offset",
           "dimension": "temporal",
           "value": "INPUT/RYF.rlds.1990_1991_time_series_mean_anoms_EN.nc",
-          "calendar": "experiment",
+          "calendar": "forcing",
           "comment": ""
         }
       ]
@@ -38,7 +38,7 @@
           "type": "offset",
           "dimension": "temporal",
           "value": "INPUT/RYF.prrn.1990_1991_time_series_mean_anoms_EN.nc",
-          "calendar": "experiment",
+          "calendar": "forcing",
           "comment": ""
         }
       ]
@@ -52,7 +52,7 @@
           "type": "offset",
           "dimension": "temporal",
           "value": "INPUT/RYF.prsn.1990_1991_time_series_mean_anoms_EN.nc",
-          "calendar": "experiment",
+          "calendar": "forcing",
           "comment": ""
         }
       ]
@@ -66,7 +66,7 @@
           "type": "offset",
           "dimension": "temporal",
           "value": "INPUT/RYF.psl.1990_1991_time_series_mean_anoms_EN.nc",
-          "calendar": "experiment",
+          "calendar": "forcing",
           "comment": ""
         }
       ]
@@ -81,7 +81,7 @@
           "type": "offset",
           "dimension": "temporal",
           "value": "INPUT/RYF.friver.1990_1991_time_series_mean_anoms_EN.nc",
-          "calendar": "experiment",
+          "calendar": "forcing",
           "comment": ""
         }
       ]
@@ -95,7 +95,7 @@
           "type": "offset",
           "dimension": "temporal",
           "value": "INPUT/RYF.tas_10m.1990_1991_time_series_mean_anoms_EN.nc",
-          "calendar": "experiment",
+          "calendar": "forcing",
           "comment": ""
         }
       ]
@@ -109,7 +109,7 @@
           "type": "offset",
           "dimension": "temporal",
           "value": "INPUT/RYF.huss_10m.1990_1991_time_series_mean_anoms_EN.nc",
-          "calendar": "experiment",
+          "calendar": "forcing",
           "comment": ""
         }
       ]
@@ -123,7 +123,7 @@
           "type": "offset",
           "dimension": "temporal",
           "value": "INPUT/RYF.uas_10m.1990_1991_time_series_mean_anoms_EN.nc",
-          "calendar": "experiment",
+          "calendar": "forcing",
           "comment": ""
         }
       ]
@@ -137,7 +137,7 @@
           "type": "offset",
           "dimension": "temporal",
           "value": "INPUT/RYF.vas_10m.1990_1991_time_series_mean_anoms_EN.nc",
-          "calendar": "experiment",
+          "calendar": "forcing",
           "comment": ""
         }
       ]
