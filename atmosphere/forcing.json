@@ -7,7 +7,6 @@
       "cname": "swfld_ai",
       "perturbations": [
         {
-          "type": "separable",
           "dimension": "temporal", 
           "value": ["INPUT/RYF.rsds.1990_1991_time_series_mean_anoms_EN.nc"],
           "calendar": "experiment",
@@ -21,7 +20,6 @@
       "cname": "lwfld_ai",
       "perturbations": [
         {
-          "type": "separable",
           "dimension": "temporal",
           "value": ["INPUT/RYF.rlds.1990_1991_time_series_mean_anoms_EN.nc"],
           "calendar": "experiment",
@@ -35,7 +33,6 @@
       "cname": "rain_ai",
       "perturbations": [
         {
-          "type": "separable",
           "dimension": "temporal",
           "value": ["INPUT/RYF.prrn.1990_1991_time_series_mean_anoms_EN.nc"],
           "calendar": "experiment",
@@ -49,7 +46,6 @@
       "cname": "snow_ai",
       "perturbations": [
         {
-          "type": "separable",
           "dimension": "temporal",
           "value": ["INPUT/RYF.prsn.1990_1991_time_series_mean_anoms_EN.nc"],
           "calendar": "experiment",
@@ -63,7 +59,6 @@
       "cname": "press_ai",
       "perturbations": [
         {
-          "type": "separable",
           "dimension": "temporal",
           "value": ["INPUT/RYF.psl.1990_1991_time_series_mean_anoms_EN.nc"],
           "calendar": "experiment",
@@ -78,7 +73,6 @@
 	"domain": "land",
       "perturbations": [
         {
-          "type": "separable",
           "dimension": "temporal",
           "value": ["INPUT/RYF.friver.1990_1991_time_series_mean_anoms_EN.nc"],
           "calendar": "experiment",
@@ -92,7 +86,6 @@
       "cname": "tair_ai",
       "perturbations": [
         {
-          "type": "separable",
           "dimension": "temporal",
           "value": ["INPUT/RYF.tas_10m.1990_1991_time_series_mean_anoms_EN.nc"],
           "calendar": "experiment",
@@ -106,7 +99,6 @@
       "cname": "qair_ai",
       "perturbations": [
         {
-          "type": "separable",
           "dimension": "temporal",
           "value": ["INPUT/RYF.huss_10m.1990_1991_time_series_mean_anoms_EN.nc"],
           "calendar": "experiment",
@@ -120,7 +112,6 @@
       "cname": "uwnd_ai",
       "perturbations": [
         {
-          "type": "separable",
           "dimension": "temporal",
           "value": ["INPUT/RYF.uas_10m.1990_1991_time_series_mean_anoms_EN.nc"],
           "calendar": "experiment",
@@ -134,7 +125,6 @@
       "cname": "vwnd_ai",
       "perturbations": [
         {
-          "type": "separable",
           "dimension": "temporal",
           "value": ["INPUT/RYF.vas_10m.1990_1991_time_series_mean_anoms_EN.nc"],
           "calendar": "experiment",
