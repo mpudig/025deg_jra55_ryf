@@ -12,34 +12,70 @@
       "cname": "lwfld_ai",
       "perturbations": [
         {
-          "type": "offset",
-          "dimension": "temporal",
-          "value": "INPUT/RYF.rlds.1990_1991_time_series_mean_anoms_EN.nc",
+          "type": "separable",
+            "dimension": ["temporal", "spatial"],
+          "value": "INPUT/RYF.rlds.1990_1991_time_series_mean_anoms_EN.nc", "INPUT/RYF.rlds.1990_1991_pattern_mean_anoms_EN.nc"
           "calendar": "experiment",
-          "comment": ""
+          "comment": "idealised N34 index (t) x spatial pattern (x, y)"
         }
       ]
     },
     {
       "filename": "INPUT/RYF.rain.1990_1991.nc",
       "fieldname": "prrn",
-      "cname": "rain_ai"
+      "cname": "rain_ai",
+      "perturbations": [
+        {
+          "type": "separable",
+            "dimension": ["temporal", "spatial"],
+          "value": "INPUT/RYF.prrn.1990_1991_time_series_mean_anoms_EN.nc", "INPUT/RYF.prrn.1990_1991_pattern_mean_anoms_EN.nc"
+          "calendar": "experiment",
+          "comment": ""
+        }
+      ]
     },
     {
       "filename": "INPUT/RYF.snow.1990_1991.nc",
       "fieldname": "prsn",
-      "cname": "snow_ai"
+      "cname": "snow_ai",
+      "perturbations": [
+        {
+          "type": "separable",
+            "dimension": ["temporal", "spatial"],
+          "value": "INPUT/RYF.prsn.1990_1991_time_series_mean_anoms_EN.nc", "INPUT/RYF.prsn.1990_1991_pattern_mean_anoms_EN.nc"
+          "calendar": "experiment",
+          "comment": ""
+        }
+      ]
     },
     {
       "filename": "INPUT/RYF.slp.1990_1991.nc",
       "fieldname": "psl",
-      "cname": "press_ai"
+      "cname": "press_ai",
+      "perturbations": [
+        {
+          "type": "separable",
+            "dimension": ["temporal", "spatial"],
+          "value": "INPUT/RYF.psl.1990_1991_time_series_mean_anoms_EN.nc", "INPUT/RYF.psl.1990_1991_pattern_mean_anoms_EN.nc"
+          "calendar": "experiment",
+          "comment": ""
+        }
+      ]
     },
     {
       "filename": "INPUT/RYF.runoff_all.1990_1991.nc",
       "fieldname": "friver",
       "cname": "runof_ai",
-      "domain": "land"
+      "domain": "land",
+      "perturbations": [
+        {
+          "type": "separable",
+            "dimension": ["temporal", "spatial"],
+          "value": "INPUT/RYF.friver.1990_1991_time_series_mean_anoms_EN.nc", "INPUT/RYF.friver.1990_1991_pattern_mean_anoms_EN.nc"
+          "calendar": "experiment",
+          "comment": ""
+        }
+      ]
     },
     {
       "filename": "INPUT/RYF.t_10.1990_1991.nc",
@@ -47,9 +83,9 @@
       "cname": "tair_ai",
       "perturbations": [
         {
-          "type": "offset",
-          "dimension": "temporal",
-          "value": "INPUT/RYF.tas_10m.1990_1991_time_series_mean_anoms_EN.nc",
+          "type": "separable",
+            "dimension": ["temporal", "spatial"],
+          "value": "INPUT/RYF.tas_10m.1990_1991_time_series_mean_anoms_EN.nc", "INPUT/RYF.tas_10m.1990_1991_pattern_mean_anoms_EN.nc"
           "calendar": "experiment",
           "comment": ""
         }
@@ -58,17 +94,44 @@
     {
       "filename": "INPUT/RYF.q_10.1990_1991.nc",
       "fieldname": "huss_10m",
-      "cname": "qair_ai"
+      "cname": "qair_ai",
+      "perturbations": [
+        {
+          "type": "separable",
+            "dimension": ["temporal", "spatial"],
+          "value": "INPUT/RYF.huss_10m.1990_1991_time_series_mean_anoms_EN.nc", "INPUT/RYF.huss_10m.1990_1991_pattern_mean_anoms_EN.nc"
+          "calendar": "experiment",
+          "comment": ""
+        }
+      ]
     },
     {
       "filename": "INPUT/RYF.u_10.1990_1991.nc",
       "fieldname": "uas_10m",
-      "cname": "uwnd_ai"
+      "cname": "uwnd_ai",
+      "perturbations": [
+        {
+          "type": "separable",
+            "dimension": ["temporal", "spatial"],
+          "value": "INPUT/RYF.uas_10m.1990_1991_time_series_mean_anoms_EN.nc", "INPUT/RYF.uas_10m.1990_1991_pattern_mean_anoms_EN.nc"
+          "calendar": "experiment",
+          "comment": ""
+        }
+      ]
     },
     {
       "filename": "INPUT/RYF.v_10.1990_1991.nc",
       "fieldname": "vas_10m",
-      "cname": "vwnd_ai"
+      "cname": "vwnd_ai",
+      "perturbations": [
+        {
+          "type": "separable",
+            "dimension": ["temporal", "spatial"],
+          "value": "INPUT/RYF.vas_10m.1990_1991_time_series_mean_anoms_EN.nc", "INPUT/RYF.vas_10m.1990_1991_pattern_mean_anoms_EN.nc"
+          "calendar": "experiment",
+          "comment": ""
+        }
+      ]
     }
   ]
 }

@@ -16,6 +16,81 @@ work/INPUT/rmp_jra55_cice_patch.nc:
   hashes:
     binhash: 1e3484bbc9f2d422abf8b5ccd6f064ea
     md5: 08da790afd18eff1c6742af7e4b3c1c2
+work/atmosphere/INPUT/RYF.friver.1990_1991_pattern_mean_anoms_EN.nc:
+  fullpath: /g/data/e14/mv7494/JRA55-do-1-3/spatial_patterns/RYF.friver.1990_1991_pattern_mean_anoms_EN.nc
+  hashes:
+    binhash: ab8318cc966a894163cc5be56b25f07c
+    md5: 30db0eb8223f545c37ef0956cf5ff252
+work/atmosphere/INPUT/RYF.friver.1990_1991_pattern_mean_anoms_LN.nc:
+  fullpath: /g/data/e14/mv7494/JRA55-do-1-3/spatial_patterns/RYF.friver.1990_1991_pattern_mean_anoms_LN.nc
+  hashes:
+    binhash: 8e226e24ebc1e4c6dd5d2e596c95f0c4
+    md5: 3a6a4a438f9d210b95b390e71cc5d9e4
+work/atmosphere/INPUT/RYF.friver.1990_1991_time_series_mean_anoms_EN.nc:
+  fullpath: /g/data/e14/mv7494/JRA55-do-1-3/time_series/RYF.friver.1990_1991_time_series_mean_anoms_EN.nc
+  hashes:
+    binhash: 8c42941be76529ebbfd78ef303540d85
+    md5: ffdd381738acfb6aff411ae81386a3c1
+work/atmosphere/INPUT/RYF.huss_10m.1990_1991_pattern_mean_anoms_EN.nc:
+  fullpath: /g/data/e14/mv7494/JRA55-do-1-3/spatial_patterns/RYF.huss_10m.1990_1991_pattern_mean_anoms_EN.nc
+  hashes:
+    binhash: 7ed57d5471bd90b58d08eea3141e22a8
+    md5: 944afdb703c0bec510af50f2d0f1d1e6
+work/atmosphere/INPUT/RYF.huss_10m.1990_1991_pattern_mean_anoms_LN.nc:
+  fullpath: /g/data/e14/mv7494/JRA55-do-1-3/spatial_patterns/RYF.huss_10m.1990_1991_pattern_mean_anoms_LN.nc
+  hashes:
+    binhash: fdc68907651fe35c9b47eda1a80daa9e
+    md5: 6cdb5af85d6c9083b837c10f64c1c0f3
+work/atmosphere/INPUT/RYF.huss_10m.1990_1991_time_series_mean_anoms_EN.nc:
+  fullpath: /g/data/e14/mv7494/JRA55-do-1-3/time_series/RYF.huss_10m.1990_1991_time_series_mean_anoms_EN.nc
+  hashes:
+    binhash: 604579ab17ae79333670646bc74ed180
+    md5: b91a472b9ad4d7a3f673c832bbe7e8ee
+work/atmosphere/INPUT/RYF.prrn.1990_1991_pattern_mean_anoms_EN.nc:
+  fullpath: /g/data/e14/mv7494/JRA55-do-1-3/spatial_patterns/RYF.prrn.1990_1991_pattern_mean_anoms_EN.nc
+  hashes:
+    binhash: 19488489fe5143c2579df8b474580991
+    md5: 9bd1828a71af804e66640ee8e3bfc8af
+work/atmosphere/INPUT/RYF.prrn.1990_1991_pattern_mean_anoms_LN.nc:
+  fullpath: /g/data/e14/mv7494/JRA55-do-1-3/spatial_patterns/RYF.prrn.1990_1991_pattern_mean_anoms_LN.nc
+  hashes:
+    binhash: 0e17487c5c541410328a7a3128bd8615
+    md5: 090b866f49eaf96115d2632cd4e1f5d6
+work/atmosphere/INPUT/RYF.prrn.1990_1991_time_series_mean_anoms_EN.nc:
+  fullpath: /g/data/e14/mv7494/JRA55-do-1-3/time_series/RYF.prrn.1990_1991_time_series_mean_anoms_EN.nc
+  hashes:
+    binhash: a1b39ef8e527112a3ca28a4acdb3ba68
+    md5: ea62740a0ac7023afeee9c4068e9bf3e
+work/atmosphere/INPUT/RYF.prsn.1990_1991_pattern_mean_anoms_EN.nc:
+  fullpath: /g/data/e14/mv7494/JRA55-do-1-3/spatial_patterns/RYF.prsn.1990_1991_pattern_mean_anoms_EN.nc
+  hashes:
+    binhash: efc0bfddddd8486357a344022389e22b
+    md5: 96801c971d38931bd4f9ec249ac4c0e9
+work/atmosphere/INPUT/RYF.prsn.1990_1991_pattern_mean_anoms_LN.nc:
+  fullpath: /g/data/e14/mv7494/JRA55-do-1-3/spatial_patterns/RYF.prsn.1990_1991_pattern_mean_anoms_LN.nc
+  hashes:
+    binhash: badcabca9d198c711148fad19219fd67
+    md5: 06793447fda5e46d4ba1d7bf0a1f61bf
+work/atmosphere/INPUT/RYF.prsn.1990_1991_time_series_mean_anoms_EN.nc:
+  fullpath: /g/data/e14/mv7494/JRA55-do-1-3/time_series/RYF.prsn.1990_1991_time_series_mean_anoms_EN.nc
+  hashes:
+    binhash: 9e589f9b100577a77fb5892e5f346389
+    md5: 80b0fda504aa984d7f2f30894d27ba48
+work/atmosphere/INPUT/RYF.psl.1990_1991_pattern_mean_anoms_EN.nc:
+  fullpath: /g/data/e14/mv7494/JRA55-do-1-3/spatial_patterns/RYF.psl.1990_1991_pattern_mean_anoms_EN.nc
+  hashes:
+    binhash: 0ac7d99abc68f8290aad4c4f0445bf4c
+    md5: da4d35db63125964d36d597c05521db8
+work/atmosphere/INPUT/RYF.psl.1990_1991_pattern_mean_anoms_LN.nc:
+  fullpath: /g/data/e14/mv7494/JRA55-do-1-3/spatial_patterns/RYF.psl.1990_1991_pattern_mean_anoms_LN.nc
+  hashes:
+    binhash: ca0ba95cf4ff00060f5b4c2364c9de4c
+    md5: 00195e71d15d318ea24ede74b28cb6fd
+work/atmosphere/INPUT/RYF.psl.1990_1991_time_series_mean_anoms_EN.nc:
+  fullpath: /g/data/e14/mv7494/JRA55-do-1-3/time_series/RYF.psl.1990_1991_time_series_mean_anoms_EN.nc
+  hashes:
+    binhash: cb013b723a2fcb96e4e137ca282f7175
+    md5: 4bb0643031eb600ac7a9d4eb34a1a3b9
 work/atmosphere/INPUT/RYF.q_10.1984_1985.nc:
   fullpath: /g/data/ua8/JRA55-do/RYF/v1-3/RYF.q_10.1984_1985.nc
   hashes:
@@ -56,11 +131,21 @@ work/atmosphere/INPUT/RYF.rlds.1990_1991.nc:
   hashes:
     binhash: e9f4cc5013dd86bdf70a0c5a9b6221be
     md5: b1fb56a065c06a9488c7534c0a6fefbe
+work/atmosphere/INPUT/RYF.rlds.1990_1991_pattern_mean_anoms_EN.nc:
+  fullpath: /g/data/e14/mv7494/JRA55-do-1-3/spatial_patterns/RYF.rlds.1990_1991_pattern_mean_anoms_EN.nc
+  hashes:
+    binhash: 95e74d0b41698d9dea4ad4974972f9dd
+    md5: 1c3d84f4c27599ed034872904d052a9e
+work/atmosphere/INPUT/RYF.rlds.1990_1991_pattern_mean_anoms_LN.nc:
+  fullpath: /g/data/e14/mv7494/JRA55-do-1-3/spatial_patterns/RYF.rlds.1990_1991_pattern_mean_anoms_LN.nc
+  hashes:
+    binhash: d74fbb829087ecb47cb58adf5a161b84
+    md5: e0c9989b1f6ada63fc616baece4a969a
 work/atmosphere/INPUT/RYF.rlds.1990_1991_time_series_mean_anoms_EN.nc:
   fullpath: /g/data/e14/mv7494/JRA55-do-1-3/time_series/RYF.rlds.1990_1991_time_series_mean_anoms_EN.nc
   hashes:
-    binhash: 0fdbdc85832cc9c77501a06b109d08b2
-    md5: 715ba42be47e1389ce9c23818871e616
+    binhash: 190c5a684bde052b6d8024b21923c3c0
+    md5: 1e145a4c525d7832a1c188c19c8adc34
 work/atmosphere/INPUT/RYF.rlds.2003_2004.nc:
   fullpath: /g/data/ua8/JRA55-do/RYF/v1-3/RYF.rlds.2003_2004.nc
   hashes:
@@ -76,6 +161,21 @@ work/atmosphere/INPUT/RYF.rsds.1990_1991.nc:
   hashes:
     binhash: c9c12cbef0ada0d29fe1f864e526f65c
     md5: 2d4cb0f10338dc090880233564dd5f4a
+work/atmosphere/INPUT/RYF.rsds.1990_1991_pattern_mean_anoms_EN.nc:
+  fullpath: /g/data/e14/mv7494/JRA55-do-1-3/spatial_patterns/RYF.rsds.1990_1991_pattern_mean_anoms_EN.nc
+  hashes:
+    binhash: afea6468be5c6b69a526f188adda6f69
+    md5: 0c6808c273fc37159d1a3555a6b74a7e
+work/atmosphere/INPUT/RYF.rsds.1990_1991_pattern_mean_anoms_LN.nc:
+  fullpath: /g/data/e14/mv7494/JRA55-do-1-3/spatial_patterns/RYF.rsds.1990_1991_pattern_mean_anoms_LN.nc
+  hashes:
+    binhash: 9251f081de43dfbf462d23ad3daec6e6
+    md5: 22a65aee6d535c4db37806a608d78539
+work/atmosphere/INPUT/RYF.rsds.1990_1991_time_series_mean_anoms_EN.nc:
+  fullpath: /g/data/e14/mv7494/JRA55-do-1-3/time_series/RYF.rsds.1990_1991_time_series_mean_anoms_EN.nc
+  hashes:
+    binhash: 0e18cb8c1943f5f80940276430d0b396
+    md5: 38f480c375687606b844908e510bd68a
 work/atmosphere/INPUT/RYF.rsds.2003_2004.nc:
   fullpath: /g/data/ua8/JRA55-do/RYF/v1-3/RYF.rsds.2003_2004.nc
   hashes:
@@ -141,11 +241,21 @@ work/atmosphere/INPUT/RYF.t_10.2003_2004.nc:
   hashes:
     binhash: df848da85ec34a7570b23924adb9af6b
     md5: 5c752aa45a8038dc025acd272bafa25a
+work/atmosphere/INPUT/RYF.tas_10m.1990_1991_pattern_mean_anoms_EN.nc:
+  fullpath: /g/data/e14/mv7494/JRA55-do-1-3/spatial_patterns/RYF.tas_10m.1990_1991_pattern_mean_anoms_EN.nc
+  hashes:
+    binhash: d7818c31cfef880644b62cc76429d61b
+    md5: be36ed5008adbc7ddb558fe313530509
+work/atmosphere/INPUT/RYF.tas_10m.1990_1991_pattern_mean_anoms_LN.nc:
+  fullpath: /g/data/e14/mv7494/JRA55-do-1-3/spatial_patterns/RYF.tas_10m.1990_1991_pattern_mean_anoms_LN.nc
+  hashes:
+    binhash: d8950988ceb6259865fc0096d3fe0c0f
+    md5: 9a7b862e93ad81d1f796cff615d89561
 work/atmosphere/INPUT/RYF.tas_10m.1990_1991_time_series_mean_anoms_EN.nc:
   fullpath: /g/data/e14/mv7494/JRA55-do-1-3/time_series/RYF.tas_10m.1990_1991_time_series_mean_anoms_EN.nc
   hashes:
-    binhash: 76a5b94bff4deacc1f736c1a07444d0c
-    md5: d000932e8b9e23e75504474ba01c532c
+    binhash: 41a367151fb381e1d726d7e74e17a530
+    md5: 2c00a0eb2e67ca768d3ed5b2ab5d9b74
 work/atmosphere/INPUT/RYF.u_10.1984_1985.nc:
   fullpath: /g/data/ua8/JRA55-do/RYF/v1-3/RYF.u_10.1984_1985.nc
   hashes:
@@ -161,6 +271,21 @@ work/atmosphere/INPUT/RYF.u_10.2003_2004.nc:
   hashes:
     binhash: 0eaf67a40aead945600800f13bc982bd
     md5: b815c0882971859b190151dafb5cce8f
+work/atmosphere/INPUT/RYF.uas_10m.1990_1991_pattern_mean_anoms_EN.nc:
+  fullpath: /g/data/e14/mv7494/JRA55-do-1-3/spatial_patterns/RYF.uas_10m.1990_1991_pattern_mean_anoms_EN.nc
+  hashes:
+    binhash: d386681c329b9212b9abddc9ec114017
+    md5: d5115f40d508b8263952ed5f8623e55e
+work/atmosphere/INPUT/RYF.uas_10m.1990_1991_pattern_mean_anoms_LN.nc:
+  fullpath: /g/data/e14/mv7494/JRA55-do-1-3/spatial_patterns/RYF.uas_10m.1990_1991_pattern_mean_anoms_LN.nc
+  hashes:
+    binhash: dff6ec31476ba0c662374aaa891db63f
+    md5: 6fcd495ccf7e8a1654d7c2d1f9ea5a86
+work/atmosphere/INPUT/RYF.uas_10m.1990_1991_time_series_mean_anoms_EN.nc:
+  fullpath: /g/data/e14/mv7494/JRA55-do-1-3/time_series/RYF.uas_10m.1990_1991_time_series_mean_anoms_EN.nc
+  hashes:
+    binhash: 54f7037144cf62917664e9d8e03024cc
+    md5: 11b45c4804dbceec62e0e2090a334b87
 work/atmosphere/INPUT/RYF.v_10.1984_1985.nc:
   fullpath: /g/data/ua8/JRA55-do/RYF/v1-3/RYF.v_10.1984_1985.nc
   hashes:
@@ -176,6 +301,21 @@ work/atmosphere/INPUT/RYF.v_10.2003_2004.nc:
   hashes:
     binhash: d4ab1c739180d9653a51954ddee0767e
     md5: 4e93d297b872db1fc14665048b6a5e1c
+work/atmosphere/INPUT/RYF.vas_10m.1990_1991_pattern_mean_anoms_EN.nc:
+  fullpath: /g/data/e14/mv7494/JRA55-do-1-3/spatial_patterns/RYF.vas_10m.1990_1991_pattern_mean_anoms_EN.nc
+  hashes:
+    binhash: dffce64ff47b5b40361389a2bfd062ab
+    md5: c577d5f82d37872c116a7e54489e76fc
+work/atmosphere/INPUT/RYF.vas_10m.1990_1991_pattern_mean_anoms_LN.nc:
+  fullpath: /g/data/e14/mv7494/JRA55-do-1-3/spatial_patterns/RYF.vas_10m.1990_1991_pattern_mean_anoms_LN.nc
+  hashes:
+    binhash: ea6a6fbec98141718266202f54a8eb34
+    md5: 24b3c423c4b116d6566016cd84949005
+work/atmosphere/INPUT/RYF.vas_10m.1990_1991_time_series_mean_anoms_EN.nc:
+  fullpath: /g/data/e14/mv7494/JRA55-do-1-3/time_series/RYF.vas_10m.1990_1991_time_series_mean_anoms_EN.nc
+  hashes:
+    binhash: 2d85d71e3b2566b9f6c1e26fb6f3257c
+    md5: 4aed8af1e50e0a16e0904bf11107e435
 work/atmosphere/INPUT/rmp_jrar_to_cict_CONSERV.nc:
   fullpath: /g/data/ik11/inputs/access-om2/input_20200530/yatm_025deg/rmp_jrar_to_cict_CONSERV.nc
   hashes:
