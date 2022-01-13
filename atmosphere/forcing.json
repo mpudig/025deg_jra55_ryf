@@ -13,7 +13,7 @@
       "perturbations": [
         {
           "type": "separable",
-            "dimension": ["temporal", "spatial"],
+          "dimension": ["temporal", "spatial"],
           "value": "INPUT/RYF.rlds.1990_1991_time_series_mean_anoms_EN.nc", "INPUT/RYF.rlds.1990_1991_pattern_mean_anoms_EN.nc"
           "calendar": "experiment",
           "comment": "idealised N34 index (t) x spatial pattern (x, y)"
@@ -27,7 +27,7 @@
       "perturbations": [
         {
           "type": "separable",
-            "dimension": ["temporal", "spatial"],
+          "dimension": ["temporal", "spatial"],
           "value": "INPUT/RYF.prrn.1990_1991_time_series_mean_anoms_EN.nc", "INPUT/RYF.prrn.1990_1991_pattern_mean_anoms_EN.nc"
           "calendar": "experiment",
           "comment": ""
@@ -41,7 +41,7 @@
       "perturbations": [
         {
           "type": "separable",
-            "dimension": ["temporal", "spatial"],
+          "dimension": ["temporal", "spatial"],
           "value": "INPUT/RYF.prsn.1990_1991_time_series_mean_anoms_EN.nc", "INPUT/RYF.prsn.1990_1991_pattern_mean_anoms_EN.nc"
           "calendar": "experiment",
           "comment": ""
@@ -55,7 +55,7 @@
       "perturbations": [
         {
           "type": "separable",
-            "dimension": ["temporal", "spatial"],
+          "dimension": ["temporal", "spatial"],
           "value": "INPUT/RYF.psl.1990_1991_time_series_mean_anoms_EN.nc", "INPUT/RYF.psl.1990_1991_pattern_mean_anoms_EN.nc"
           "calendar": "experiment",
           "comment": ""
@@ -70,7 +70,7 @@
       "perturbations": [
         {
           "type": "separable",
-            "dimension": ["temporal", "spatial"],
+          "dimension": ["temporal", "spatial"],
           "value": "INPUT/RYF.friver.1990_1991_time_series_mean_anoms_EN.nc", "INPUT/RYF.friver.1990_1991_pattern_mean_anoms_EN.nc"
           "calendar": "experiment",
           "comment": ""
@@ -84,7 +84,7 @@
       "perturbations": [
         {
           "type": "separable",
-            "dimension": ["temporal", "spatial"],
+          "dimension": ["temporal", "spatial"],
           "value": "INPUT/RYF.tas_10m.1990_1991_time_series_mean_anoms_EN.nc", "INPUT/RYF.tas_10m.1990_1991_pattern_mean_anoms_EN.nc"
           "calendar": "experiment",
           "comment": ""
@@ -98,7 +98,7 @@
       "perturbations": [
         {
           "type": "separable",
-            "dimension": ["temporal", "spatial"],
+          "dimension": ["temporal", "spatial"],
           "value": "INPUT/RYF.huss_10m.1990_1991_time_series_mean_anoms_EN.nc", "INPUT/RYF.huss_10m.1990_1991_pattern_mean_anoms_EN.nc"
           "calendar": "experiment",
           "comment": ""
@@ -112,7 +112,7 @@
       "perturbations": [
         {
           "type": "separable",
-            "dimension": ["temporal", "spatial"],
+          "dimension": ["temporal", "spatial"],
           "value": "INPUT/RYF.uas_10m.1990_1991_time_series_mean_anoms_EN.nc", "INPUT/RYF.uas_10m.1990_1991_pattern_mean_anoms_EN.nc"
           "calendar": "experiment",
           "comment": ""
@@ -126,7 +126,7 @@
       "perturbations": [
         {
           "type": "separable",
-            "dimension": ["temporal", "spatial"],
+          "dimension": ["temporal", "spatial"],
           "value": "INPUT/RYF.vas_10m.1990_1991_time_series_mean_anoms_EN.nc", "INPUT/RYF.vas_10m.1990_1991_pattern_mean_anoms_EN.nc"
           "calendar": "experiment",
           "comment": ""
