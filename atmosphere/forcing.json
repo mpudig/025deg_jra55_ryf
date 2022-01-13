@@ -15,7 +15,8 @@
           "type": "offset",
           "dimension": "temporal",
           "value": "INPUT/RYF.rlds.nc",
-          "calendar": "experiment"
+          "calendar": "experiment",
+          "comment": ""
         }
       ]
     },
@@ -49,7 +50,8 @@
           "type": "offset",
           "dimension": "temporal",
           "value": "INPUT/RYF.tas_10m.nc",
-          "calendar": "experiment"
+          "calendar": "experiment",
+          "comment": ""
         }
       ]
     },
