@@ -43,7 +43,7 @@
     },
     {
       "filename": "INPUT/RYF.t_10.1990_1991.nc",
-      "fieldname": "tas",
+      "fieldname": "tas_10m",
       "cname": "tair_ai",
       "perturbations": [
         {
@@ -57,17 +57,17 @@
     },
     {
       "filename": "INPUT/RYF.q_10.1990_1991.nc",
-      "fieldname": "rhuss",
+      "fieldname": "huss_10m",
       "cname": "relh_ai"
     },
     {
       "filename": "INPUT/RYF.u_10.1990_1991.nc",
-      "fieldname": "uas",
+      "fieldname": "uas_10m",
       "cname": "uwnd_ai"
     },
     {
       "filename": "INPUT/RYF.v_10.1990_1991.nc",
-      "fieldname": "vas",
+      "fieldname": "vas_10m",
       "cname": "vwnd_ai"
     }
   ]
