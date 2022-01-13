@@ -58,7 +58,7 @@
     {
       "filename": "INPUT/RYF.q_10.1990_1991.nc",
       "fieldname": "huss_10m",
-      "cname": "relh_ai"
+      "cname": "qair_ai"
     },
     {
       "filename": "INPUT/RYF.u_10.1990_1991.nc",
