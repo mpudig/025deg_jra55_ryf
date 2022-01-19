@@ -50,8 +50,7 @@
         {
           "type": "separable",
           "dimension": ["temporal", "spatial"],
-          "value": ["INPUT/RYF.uas_10m.1990_1991_time_series_mean_anoms_EN.nc", "INPUT/RYF.uas_10m.1990_1991_pattern_mean_anoms_EN.nc",
-                    "INPUT/uas_minus.nc", "INPUT/RYF.uas_10m.1990_1991_pattern_mean_anoms_EN.nc"],
+          "value": ["INPUT/RYF.uas_10m.1990_1991_time_series_mean_anoms_EN.nc", "INPUT/RYF.uas_10m.1990_1991_pattern_mean_anoms_EN.nc", "INPUT/uas_minus.nc", "INPUT/RYF.uas_10m.1990_1991_pattern_mean_anoms_EN.nc"],
           "calendar": "experiment",
           "comment": "testing out if N34*EOF1 + N34*EOF2 would work"
         }
@@ -65,8 +64,7 @@
         {
           "type": "separable",
           "dimension": ["temporal", "spatial"],
-          "value": ["INPUT/RYF.vas_10m.1990_1991_time_series_mean_anoms_EN.nc", "INPUT/RYF.vas_10m.1990_1991_pattern_mean_anoms_EN.nc",
-                    "INPUT/vas_minus.nc", "INPUT/RYF.vas_10m.1990_1991_pattern_mean_anoms_EN.nc"],
+          "value": ["INPUT/RYF.vas_10m.1990_1991_time_series_mean_anoms_EN.nc", "INPUT/RYF.vas_10m.1990_1991_pattern_mean_anoms_EN.nc", "INPUT/vas_minus.nc", "INPUT/RYF.vas_10m.1990_1991_pattern_mean_anoms_EN.nc"],
           "calendar": "experiment",
           "comment": ""
         }
