@@ -9,101 +9,38 @@
     {
       "filename": "INPUT/RYF.rlds.1990_1991.nc",
       "fieldname": "rlds",
-      "cname": "lwfld_ai",
-      "perturbations": [
-        {
-          "type": "separable",
-          "dimension": ["temporal", "spatial"],
-          "value": ["INPUT/RYF.rlds.1990_1991_time_series_mean_anoms_EN.nc", "INPUT/RYF.rlds.1990_1991_pattern_mean_anoms_EN.nc"],
-          "calendar": "experiment",
-          "comment": "idealised N34 index (t) x spatial pattern (x, y)"
-        }
-      ]
+      "cname": "lwfld_ai"
     },
     {
       "filename": "INPUT/RYF.rain.1990_1991.nc",
       "fieldname": "prrn",
-      "cname": "rain_ai",
-      "perturbations": [
-        {
-          "type": "separable",
-          "dimension": ["temporal", "spatial"],
-          "value": ["INPUT/RYF.prrn.1990_1991_time_series_mean_anoms_EN.nc", "INPUT/RYF.prrn.1990_1991_pattern_mean_anoms_EN.nc"],
-          "calendar": "experiment",
-          "comment": ""
-        }
-      ]
+      "cname": "rain_ai"
     },
     {
       "filename": "INPUT/RYF.snow.1990_1991.nc",
       "fieldname": "prsn",
-      "cname": "snow_ai",
-      "perturbations": [
-        {
-          "type": "separable",
-          "dimension": ["temporal", "spatial"],
-          "value": ["INPUT/RYF.prsn.1990_1991_time_series_mean_anoms_EN.nc", "INPUT/RYF.prsn.1990_1991_pattern_mean_anoms_EN.nc"],
-          "calendar": "experiment",
-          "comment": ""
-        }
-      ]
+      "cname": "snow_ai"
     },
     {
       "filename": "INPUT/RYF.slp.1990_1991.nc",
       "fieldname": "psl",
-      "cname": "press_ai",
-      "perturbations": [
-        {
-          "type": "separable",
-          "dimension": ["temporal", "spatial"],
-          "value": ["INPUT/RYF.psl.1990_1991_time_series_mean_anoms_EN.nc", "INPUT/RYF.psl.1990_1991_pattern_mean_anoms_EN.nc"],
-          "calendar": "experiment",
-          "comment": ""
-        }
-      ]
+      "cname": "press_ai"
     },
     {
       "filename": "INPUT/RYF.runoff_all.1990_1991.nc",
       "fieldname": "friver",
       "cname": "runof_ai",
-      "domain": "land",
-      "perturbations": [
-        {
-          "type": "separable",
-          "dimension": ["temporal", "spatial"],
-          "value": ["INPUT/RYF.friver.1990_1991_time_series_mean_anoms_EN.nc", "INPUT/RYF.friver.1990_1991_pattern_mean_anoms_EN.nc"],
-          "calendar": "experiment",
-          "comment": ""
-        }
-      ]
+      "domain": "land"
     },
     {
       "filename": "INPUT/RYF.t_10.1990_1991.nc",
       "fieldname": "tas_10m",
-      "cname": "tair_ai",
-      "perturbations": [
-        {
-          "type": "separable",
-          "dimension": ["temporal", "spatial"],
-          "value": ["INPUT/RYF.tas_10m.1990_1991_time_series_mean_anoms_EN.nc", "INPUT/RYF.tas_10m.1990_1991_pattern_mean_anoms_EN.nc"],
-          "calendar": "experiment",
-          "comment": ""
-        }
-      ]
+      "cname": "tair_ai"
     },
     {
       "filename": "INPUT/RYF.q_10.1990_1991.nc",
       "fieldname": "huss_10m",
-      "cname": "qair_ai",
-      "perturbations": [
-        {
-          "type": "separable",
-          "dimension": ["temporal", "spatial"],
-          "value": ["INPUT/RYF.huss_10m.1990_1991_time_series_mean_anoms_EN.nc", "INPUT/RYF.huss_10m.1990_1991_pattern_mean_anoms_EN.nc"],
-          "calendar": "experiment",
-          "comment": ""
-        }
-      ]
+      "cname": "qair_ai"
     },
     {
       "filename": "INPUT/RYF.u_10.1990_1991.nc",
@@ -113,9 +50,10 @@
         {
           "type": "separable",
           "dimension": ["temporal", "spatial"],
-          "value": ["INPUT/RYF.uas_10m.1990_1991_time_series_mean_anoms_EN.nc", "INPUT/RYF.uas_10m.1990_1991_pattern_mean_anoms_EN.nc"],
+          "value": ["INPUT/RYF.uas_10m.1990_1991_time_series_mean_anoms_EN.nc", "INPUT/RYF.uas_10m.1990_1991_pattern_mean_anoms_EN.nc",
+                    "INPUT/uas_minus.nc", "INPUT/RYF.uas_10m.1990_1991_pattern_mean_anoms_EN.nc"],
           "calendar": "experiment",
-          "comment": ""
+          "comment": "testing out if N34*EOF1 + N34*EOF2 would work"
         }
       ]
     },
@@ -127,7 +65,8 @@
         {
           "type": "separable",
           "dimension": ["temporal", "spatial"],
-          "value": ["INPUT/RYF.vas_10m.1990_1991_time_series_mean_anoms_EN.nc", "INPUT/RYF.vas_10m.1990_1991_pattern_mean_anoms_EN.nc"],
+          "value": ["INPUT/RYF.vas_10m.1990_1991_time_series_mean_anoms_EN.nc", "INPUT/RYF.vas_10m.1990_1991_pattern_mean_anoms_EN.nc",
+                    "INPUT/vas_minus.nc", "INPUT/RYF.vas_10m.1990_1991_pattern_mean_anoms_EN.nc"],
           "calendar": "experiment",
           "comment": ""
         }
