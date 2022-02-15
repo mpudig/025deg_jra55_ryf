@@ -4,7 +4,16 @@
     {
       "filename": "INPUT/RYF.rsds.1990_1991.nc",
       "fieldname": "rsds",
-      "cname": "swfld_ai"
+      "cname": "swfld_ai",
+      "perturbations": [
+        {
+          "type": "separable",
+          "dimension": ["temporal", "spatial"],
+          "value": ["INPUT/ts_mean_anoms_EN.nc", "INPUT/sp_mean_anoms_EN.nc"],
+          "calendar": "experiment",
+          "comment": "idealised N34 index (t) x spatial pattern (x, y)"
+        }
+      ]
     },
     {
       "filename": "INPUT/RYF.rlds.1990_1991.nc",
@@ -16,7 +25,7 @@
           "dimension": ["temporal", "spatial"],
           "value": ["INPUT/ts_mean_anoms_EN.nc", "INPUT/sp_mean_anoms_EN.nc"],
           "calendar": "experiment",
-          "comment": "idealised N34 index (t) x spatial pattern (x, y)"
+          "comment": ""
         }
       ]
     },
