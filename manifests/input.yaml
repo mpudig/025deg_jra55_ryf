@@ -184,43 +184,23 @@ work/atmosphere/INPUT/rmp_jrar_to_cict_CONSERV.nc:
 work/atmosphere/INPUT/sp_mean_anoms_EN.nc:
   fullpath: /g/data/e14/mv7494/JRA55-do-1-3/spatial_patterns/sp_mean_anoms_EN.nc
   hashes:
-    binhash: 6ccf0fd4c845074b1c812cdba45f37ca
+    binhash: 24db73fe65bb2db329adffa3fd4313a0
     md5: a5646fc81def5439bec882dff82a3a26
 work/atmosphere/INPUT/sp_mean_anoms_EN_friver.nc:
   fullpath: /g/data/e14/mv7494/JRA55-do-1-3/spatial_patterns/sp_mean_anoms_EN_friver.nc
   hashes:
-    binhash: d39697584474e49290d8ef341386fab7
+    binhash: 55f776df080b8cb9d0239df3b4e35acc
     md5: b42dc126ec5ab0dff148e73f53712968
-work/atmosphere/INPUT/sp_mean_anoms_LN.nc:
-  fullpath: /g/data/e14/mv7494/JRA55-do-1-3/spatial_patterns/sp_mean_anoms_LN.nc
-  hashes:
-    binhash: f3818a3b3fc5736b2e10f33f253aeb99
-    md5: 97aef50d484a04978395d9e2b21b6b3c
-work/atmosphere/INPUT/sp_mean_anoms_LN_friver.nc:
-  fullpath: /g/data/e14/mv7494/JRA55-do-1-3/spatial_patterns/sp_mean_anoms_LN_friver.nc
-  hashes:
-    binhash: f605a874db7765a3ee8b6e196da62e4b
-    md5: a40fdc2d4470975cc4d30ef43b4a0209
 work/atmosphere/INPUT/ts_mean_anoms_EN.nc:
   fullpath: /g/data/e14/mv7494/JRA55-do-1-3/time_series/ts_mean_anoms_EN.nc
   hashes:
-    binhash: 30795bbe54bff455d8a6c1e615ff54e6
+    binhash: 3c83f9d62b9243eddd09bc161371d8bf
     md5: d0b42060b1eeca42792359a4b6c74d38
 work/atmosphere/INPUT/ts_mean_anoms_EN_friver.nc:
   fullpath: /g/data/e14/mv7494/JRA55-do-1-3/time_series/ts_mean_anoms_EN_friver.nc
   hashes:
-    binhash: 24928190b925833170149e5c6ca02188
+    binhash: a050ec9d8d2a18126c2ff3c47596396b
     md5: 1deac06565ae7705fc7c22d156868ccc
-work/atmosphere/INPUT/ts_mean_anoms_LN.nc:
-  fullpath: /g/data/e14/mv7494/JRA55-do-1-3/time_series/ts_mean_anoms_LN.nc
-  hashes:
-    binhash: 4296d0c9a37f97165a20d3c464416d8b
-    md5: 7616c088328fe7660d41779256445f51
-work/atmosphere/INPUT/ts_mean_anoms_LN_friver.nc:
-  fullpath: /g/data/e14/mv7494/JRA55-do-1-3/time_series/ts_mean_anoms_LN_friver.nc
-  hashes:
-    binhash: 9c02ed3dc25445f8c4efa94f578ed7c7
-    md5: d254db93671cc86e7763e3ac339eb5be
 work/ocean/INPUT/chl.nc:
   fullpath: /g/data/ik11/inputs/access-om2/input_20200530/mom_025deg/chl.nc
   hashes:
