@@ -56,8 +56,6 @@ ACCESS-OM2-025
 "ocean_model","sea_level_sq","sea_levelsq",        "ocean","all",.true.,"none",2
 "ocean_model","mld","mld",                         "ocean","all",.true.,"none",2
 "ocean_model","pme_river","pme_river",             "ocean","all",.true.,"none",2
-# 2d fields - monthly output
-"ocean_model","rsds","rsds", "ocean_month","all",.true.,"none",2
 #"ocean_model","river","river",             "ocean","all",.true.,"none",2
 #"ocean_model","runoff","runoff",             "ocean","all",.true.,"none",2
 #"ocean_model","ice_calving","ice_calving",             "ocean","all",.true.,"none",2
