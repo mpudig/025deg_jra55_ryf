@@ -184,12 +184,12 @@ work/atmosphere/INPUT/rmp_jrar_to_cict_CONSERV.nc:
 work/atmosphere/INPUT/sp_mean_anoms_EN.nc:
   fullpath: /g/data/e14/mv7494/JRA55-do-1-3/spatial_patterns/sp_mean_anoms_EN.nc
   hashes:
-    binhash: e72951e87049597c029b48472527c34f
+    binhash: 743009d4fa1b68b6fef3a7514df4e4a8
     md5: a5646fc81def5439bec882dff82a3a26
 work/atmosphere/INPUT/sp_mean_anoms_EN_friver.nc:
   fullpath: /g/data/e14/mv7494/JRA55-do-1-3/spatial_patterns/sp_mean_anoms_EN_friver.nc
   hashes:
-    binhash: 3d0c128aaf3c627c458520130b031bf1
+    binhash: 9716729b28b3eaf0fcb2ceb15631327c
     md5: b42dc126ec5ab0dff148e73f53712968
 work/atmosphere/INPUT/sp_mean_anoms_LN.nc:
   fullpath: /g/data/e14/mv7494/JRA55-do-1-3/spatial_patterns/sp_mean_anoms_LN.nc
@@ -204,13 +204,13 @@ work/atmosphere/INPUT/sp_mean_anoms_LN_friver.nc:
 work/atmosphere/INPUT/ts_mean_anoms_EN.nc:
   fullpath: /g/data/e14/mv7494/JRA55-do-1-3/time_series/ts_mean_anoms_EN.nc
   hashes:
-    binhash: a88dd0f5006c5fc00c3482d6c2b6a074
-    md5: 356c55e4e2d80207ada494a66dd4fb3f
+    binhash: 1bd1546834f0f2486cba67d0c46a30b0
+    md5: 153ddd3078f6b638154fd50c93f60b0e
 work/atmosphere/INPUT/ts_mean_anoms_EN_friver.nc:
   fullpath: /g/data/e14/mv7494/JRA55-do-1-3/time_series/ts_mean_anoms_EN_friver.nc
   hashes:
-    binhash: 9f5423313563ce2b4d8bb1ea85bc698e
-    md5: 1e0088eb5cea928ce7e1faa27bcd4e84
+    binhash: 02861c6d625a1f679f00640ad147474b
+    md5: 8e0a41a3f3c10c0300631f0527e3a14d
 work/ocean/INPUT/chl.nc:
   fullpath: /g/data/ik11/inputs/access-om2/input_20200530/mom_025deg/chl.nc
   hashes:
@@ -246,11 +246,6 @@ work/ocean/INPUT/ocean_mosaic.nc:
   hashes:
     binhash: d6a322921d55b3f2c513b41140419110
     md5: 36e956159508785d9201cc13aec0cf02
-work/ocean/INPUT/ocean_temp_salt.res.nc:
-  fullpath: /g/data/ik11/inputs/access-om2/input_20200530/mom_025deg/ocean_temp_salt.res.nc
-  hashes:
-    binhash: da6d8d4a2f617e85d3ab60fa21bbe458
-    md5: 65c1c060388046d1f725d86374002bfd
 work/ocean/INPUT/ocean_vgrid.nc:
   fullpath: /g/data/ik11/inputs/access-om2/input_20200530/mom_025deg/ocean_vgrid.nc
   hashes:
