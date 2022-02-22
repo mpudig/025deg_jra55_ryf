@@ -184,12 +184,12 @@ work/atmosphere/INPUT/rmp_jrar_to_cict_CONSERV.nc:
 work/atmosphere/INPUT/sp_mean_anoms_EN.nc:
   fullpath: /g/data/e14/mv7494/JRA55-do-1-3/spatial_patterns/sp_mean_anoms_EN.nc
   hashes:
-    binhash: b8ec4f7b5b67242ffdaa688ba7f11bb2
+    binhash: 423d42f5609a0f79ab2b172e49f859c0
     md5: a5646fc81def5439bec882dff82a3a26
 work/atmosphere/INPUT/sp_mean_anoms_EN_friver.nc:
   fullpath: /g/data/e14/mv7494/JRA55-do-1-3/spatial_patterns/sp_mean_anoms_EN_friver.nc
   hashes:
-    binhash: 9afca77f49163b53438b85119d32bd1d
+    binhash: 3e135fcd5720c11d0365a170975ef545
     md5: b42dc126ec5ab0dff148e73f53712968
 work/atmosphere/INPUT/sp_mean_anoms_LN.nc:
   fullpath: /g/data/e14/mv7494/JRA55-do-1-3/spatial_patterns/sp_mean_anoms_LN.nc
@@ -204,13 +204,13 @@ work/atmosphere/INPUT/sp_mean_anoms_LN_friver.nc:
 work/atmosphere/INPUT/ts_mean_anoms_EN.nc:
   fullpath: /g/data/e14/mv7494/JRA55-do-1-3/time_series/ts_mean_anoms_EN.nc
   hashes:
-    binhash: 23050078046905e2a3c30cb50a627910
-    md5: ea9ebc14bc0804cbf18ec88528d7c03e
+    binhash: 6e3f56ac0913101ce1ccf61eea0a15eb
+    md5: 86fa5bb580e791b7f29c76d87668a604
 work/atmosphere/INPUT/ts_mean_anoms_EN_friver.nc:
   fullpath: /g/data/e14/mv7494/JRA55-do-1-3/time_series/ts_mean_anoms_EN_friver.nc
   hashes:
-    binhash: 07783128edbe17a24942210139c4a8dc
-    md5: 82d84c1b72fe024d0e8ced17aafb6f75
+    binhash: 043b002f8bd2629fc9ea9bd67816f6a2
+    md5: c18668c36355a6722c483875e2a29177
 work/ocean/INPUT/chl.nc:
   fullpath: /g/data/ik11/inputs/access-om2/input_20200530/mom_025deg/chl.nc
   hashes:
