@@ -204,13 +204,13 @@ work/atmosphere/INPUT/sp_mean_anoms_LN_friver.nc:
 work/atmosphere/INPUT/ts_mean_anoms_EN.nc:
   fullpath: /g/data/e14/mv7494/JRA55-do-1-3/time_series/ts_mean_anoms_EN.nc
   hashes:
-    binhash: 68450653f8bc232f5c21a6ec42852bbe
+    binhash: 408101c2726f65bd7ca907fea1c1dbec
     md5: ea9ebc14bc0804cbf18ec88528d7c03e
 work/atmosphere/INPUT/ts_mean_anoms_EN_friver.nc:
   fullpath: /g/data/e14/mv7494/JRA55-do-1-3/time_series/ts_mean_anoms_EN_friver.nc
   hashes:
-    binhash: 51011a81a8eea60348e66f467b0e83c3
-    md5: 8e0a41a3f3c10c0300631f0527e3a14d
+    binhash: ffcf9cc48d03afab76a0b841d403fed9
+    md5: 82d84c1b72fe024d0e8ced17aafb6f75
 work/ocean/INPUT/chl.nc:
   fullpath: /g/data/ik11/inputs/access-om2/input_20200530/mom_025deg/chl.nc
   hashes:
