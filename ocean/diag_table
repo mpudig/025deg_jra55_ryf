@@ -11,6 +11,7 @@ ACCESS-OM2-025
 "ocean",            1,  "months", 1, "days", "time",
 "ocean_grid",      -1,  "months", 1, "days", "time",
 "ocean_scalar",     1,  "months", 1, "days", "time",
+"ocean_day",            1,  "months", "days", 1, "time",
 
 # Save ocean grid data once and for all
 "ocean_model","geolon_t","geolon_t", "ocean_grid","all",.false.,"none",2
@@ -33,6 +34,7 @@ ACCESS-OM2-025
 # Prognostic fields:
 # 3d fields
 "ocean_model","temp","temp",            "ocean","all",.true.,"none",2
+"ocean_model","temp","temp",            "ocean_day","all",.true.,"none",2
 #"ocean_model","pot_temp","pot_temp",    "ocean","all",.true.,"none",2
 "ocean_model","salt","salt",            "ocean","all",.true.,"none",2
 "ocean_model","age_global","age_global","ocean","all",.true.,"none",2
