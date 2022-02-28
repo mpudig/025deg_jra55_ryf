@@ -35,21 +35,12 @@
     {
       "filename": "INPUT/RYF.t_10.1990_1991.nc",
       "fieldname": "tas_10m",
-      "cname": "tair_ai",
-      "perturbations": [
-        {
-          "type": "separable",
-          "dimension": ["temporal", "spatial"],
-          "value": ["INPUT/ts_mean_anoms_EN.nc", "INPUT/sp_mean_anoms_EN.nc"],
-          "calendar": "experiment",
-          "comment": ""
-        }
-      ]
+      "cname": "tair_ai"
     },
     {
-      "filename": "INPUT/RYF.q_10.1990_1991.nc",
-      "fieldname": "huss_10m",
-      "cname": "qair_ai"
+      "filename": "INPUT/RYF.r_10.1990_1991.nc",
+      "fieldname": "rhuss",
+      "cname": "relh_ai"
     },
     {
       "filename": "INPUT/RYF.u_10.1990_1991.nc",
