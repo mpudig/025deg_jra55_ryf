@@ -10,7 +10,7 @@ ncpus: 1824
 # Force payu to always find, and save, files in this short (or scratch) project directory
 #shortpath: /scratch/e14
 
-# Model configuration
+# Model configuration. Hello!
 name: common
 model: access-om2
 input: /g/data/ik11/inputs/access-om2/input_20200530/common_025deg_jra55
